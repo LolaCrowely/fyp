@@ -1,0 +1,4006 @@
+Track 1: size = 142
+@0 
+@0 
+@0 
+@480 
+@960 
+@1440 
+@1690 
+@1920 
+@3686 
+@3830 
+@3840 
+@5760 
+@7670 
+@7680 
+@9600 
+@9830 
+@10550 
+@10781 
+@11501 
+@11530 
+@12970 
+@13171 
+@13440 
+@13930 
+@14400 
+@15331 
+@15341 
+@15360 
+@15514 
+@15830 
+@17270 
+@17280 
+@17491 
+@19123 
+@19200 
+@19229 
+@21110 
+@22819 
+@23040 
+@23280 
+@24950 
+@25123 
+@25910 
+@26064 
+@26861 
+@26880 
+@27014 
+@28320 
+@28598 
+@30528 
+@30720 
+@32640 
+@35520 
+@36480 
+@36960 
+@37930 
+@38400 
+@41933 
+@42221 
+@42240 
+@44160 
+@48000 
+@49526 
+@49901 
+@49910 
+@49920 
+@51178 
+@51206 
+@51581 
+@51840 
+@53088 
+@53290 
+@53760 
+@54000 
+@55670 
+@55680 
+@57610 
+@57840 
+@59520 
+@61440 
+@61670 
+@63360 
+@63542 
+@64320 
+@64474 
+@64723 
+@65270 
+@65280 
+@65405 
+@66883 
+@67200 
+@68141 
+@68803 
+@69091 
+@69120 
+@72970 
+@73190 
+@74880 
+@76800 
+@78720 
+@80640 
+@82080 
+@82560 
+@83990 
+@84480 
+@88320 
+@88560 
+@92160 
+@94080 
+@96000 
+@96960 
+@97430 
+@97910 
+@97920 
+@98592 
+@98822 
+@98870 
+@99120 
+@99610 
+@99734 
+@99754 
+@99811 
+@99840 
+@100790 
+@101270 
+@101501 
+@101674 
+@101722 
+@101760 
+@102144 
+@102394 
+@102672 
+@103354 
+@103642 
+@103680 
+@104621 
+@104765 
+@104986 
+@105312 
+@105494 
+@105600 
+@105600 
+Track 2: size = 1046
+@0 
+@0 
+@0 
+@0 
+Channel: 0 Command:192@0 
+Channel: 0 Command:176@0 
+Channel: 0 Command:176@0 
+Channel: 0 Note on, B5 key=83 velocity: 49
+@0 
+Channel: 0 Note on, F#5 key=78 velocity: 49
+@0 
+Channel: 0 Note on, B4 key=71 velocity: 49
+@432 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@432 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@432 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@480 
+Channel: 0 Note on, G5 key=79 velocity: 46
+@640 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@640 
+Channel: 0 Note on, B5 key=83 velocity: 63
+@800 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@800 
+Channel: 0 Note on, A5 key=81 velocity: 60
+@960 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@960 
+Channel: 0 Note on, B5 key=83 velocity: 51
+@1176 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@1200 
+Channel: 0 Note on, F#5 key=78 velocity: 35
+@1416 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@1440 
+Channel: 0 Note on, G5 key=79 velocity: 53
+@1600 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@1600 
+Channel: 0 Note on, B5 key=83 velocity: 74
+@1760 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@1760 
+Channel: 0 Note on, A5 key=81 velocity: 71
+@1920 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@1920 
+Channel: 0 Note on, B5 key=83 velocity: 53
+@1920 
+Channel: 0 Note on, D5 key=74 velocity: 53
+@2136 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@2136 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@2160 
+Channel: 0 Note on, C6 key=84 velocity: 64
+@2160 
+Channel: 0 Note on, E5 key=76 velocity: 64
+@2376 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@2376 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@2400 
+Channel: 0 Note on, C6 key=84 velocity: 55
+@2400 
+Channel: 0 Note on, E5 key=76 velocity: 55
+@2832 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@2832 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@2880 
+Channel: 0 Note on, C5 key=72 velocity: 37
+@3312 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@3360 
+Channel: 0 Note on, E5 key=76 velocity: 49
+@3792 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@3840 
+Channel: 0 Note on, B5 key=83 velocity: 58
+@3840 
+Channel: 0 Note on, D5 key=74 velocity: 58
+@4056 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@4056 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@4080 
+Channel: 0 Note on, C6 key=84 velocity: 67
+@4080 
+Channel: 0 Note on, E5 key=76 velocity: 67
+@4296 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@4296 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@4320 
+Channel: 0 Note on, C6 key=84 velocity: 60
+@4320 
+Channel: 0 Note on, E5 key=76 velocity: 60
+@4752 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@4752 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@4800 
+Channel: 0 Note on, F#5 key=78 velocity: 51
+@5232 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@5280 
+Channel: 0 Note on, D5 key=74 velocity: 57
+@5440 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@5440 
+Channel: 0 Note on, B5 key=83 velocity: 68
+@5600 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@5600 
+Channel: 0 Note on, A5 key=81 velocity: 74
+@5760 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@5760 
+Channel: 0 Note on, A5 key=81 velocity: 50
+@5760 
+Channel: 0 Note on, F#5 key=78 velocity: 50
+@5760 
+Channel: 0 Note on, B4 key=71 velocity: 50
+@5976 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@5976 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@5976 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@6000 
+Channel: 0 Note on, B5 key=83 velocity: 78
+@6216 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@6240 
+Channel: 0 Note on, B5 key=83 velocity: 81
+@7368 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@7440 
+Channel: 0 Note on, B4 key=71 velocity: 50
+@7656 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@7680 
+Channel: 0 Note on, B5 key=83 velocity: 78
+@7896 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@7920 
+Channel: 0 Note on, E5 key=76 velocity: 68
+@8136 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@8160 
+Channel: 0 Note on, E5 key=76 velocity: 64
+@8376 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@8400 
+Channel: 0 Note on, B5 key=83 velocity: 74
+@8616 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@8640 
+Channel: 0 Note on, A5 key=81 velocity: 51
+@8640 
+Channel: 0 Note on, D#5 key=75 velocity: 51
+@8640 
+Channel: 0 Note on, A4 key=69 velocity: 51
+@9072 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@9072 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@9072 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@9120 
+Channel: 0 Note on, A4 key=69 velocity: 64
+@9280 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@9280 
+Channel: 0 Note on, F#5 key=78 velocity: 69
+@9440 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@9440 
+Channel: 0 Note on, G5 key=79 velocity: 73
+@9600 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@9600 
+Channel: 0 Note on, A5 key=81 velocity: 44
+@9600 
+Channel: 0 Note on, D5 key=74 velocity: 44
+@9600 
+Channel: 0 Note on, A4 key=69 velocity: 44
+@9816 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@9816 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@9816 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@9840 
+Channel: 0 Note on, D5 key=74 velocity: 68
+@10056 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@10080 
+Channel: 0 Note on, D5 key=74 velocity: 64
+@10296 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@10320 
+Channel: 0 Note on, A5 key=81 velocity: 75
+@10536 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@10560 
+Channel: 0 Note on, G5 key=79 velocity: 42
+@10560 
+Channel: 0 Note on, C#5 key=73 velocity: 42
+@10560 
+Channel: 0 Note on, G4 key=67 velocity: 42
+@10776 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@10776 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@10776 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@10800 
+Channel: 0 Note on, F#5 key=78 velocity: 71
+@11016 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@11040 
+Channel: 0 Note on, F#5 key=78 velocity: 68
+@11256 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@11280 
+Channel: 0 Note on, E5 key=76 velocity: 65
+@11496 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@11520 
+Channel: 0 Note on, G5 key=79 velocity: 40
+@11520 
+Channel: 0 Note on, C5 key=72 velocity: 40
+@11520 
+Channel: 0 Note on, G4 key=67 velocity: 40
+@13120 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@13120 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@13120 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@13120 
+Channel: 0 Note on, G5 key=79 velocity: 61
+@13280 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@13280 
+Channel: 0 Note on, A5 key=81 velocity: 65
+@13440 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@13440 
+Channel: 0 Note on, A5 key=81 velocity: 52
+@13440 
+Channel: 0 Note on, C#5 key=73 velocity: 52
+@13872 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@13872 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@13920 
+Channel: 0 Note on, E5 key=76 velocity: 58
+@14352 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@14400 
+Channel: 0 Note on, B5 key=83 velocity: 42
+@14400 
+Channel: 0 Note on, D#5 key=75 velocity: 42
+@15168 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@15168 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@15360 
+Channel: 0 Note on, B5 key=83 velocity: 55
+@15360 
+Channel: 0 Note on, F#5 key=78 velocity: 55
+@15360 
+Channel: 0 Note on, B4 key=71 velocity: 55
+@15792 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@15792 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@15792 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@15840 
+Channel: 0 Note on, G5 key=79 velocity: 63
+@16000 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@16000 
+Channel: 0 Note on, B5 key=83 velocity: 69
+@16160 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@16160 
+Channel: 0 Note on, A5 key=81 velocity: 77
+@16320 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@16320 
+Channel: 0 Note on, B5 key=83 velocity: 67
+@16536 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@16560 
+Channel: 0 Note on, F#5 key=78 velocity: 51
+@16776 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@16800 
+Channel: 0 Note on, G5 key=79 velocity: 64
+@16960 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@16960 
+Channel: 0 Note on, B5 key=83 velocity: 72
+@17120 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@17120 
+Channel: 0 Note on, A5 key=81 velocity: 78
+@17280 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@17280 
+Channel: 0 Note on, B5 key=83 velocity: 65
+@17280 
+Channel: 0 Note on, D5 key=74 velocity: 65
+@17496 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@17496 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@17520 
+Channel: 0 Note on, C6 key=84 velocity: 78
+@17520 
+Channel: 0 Note on, E5 key=76 velocity: 78
+@17736 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@17736 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@17760 
+Channel: 0 Note on, C6 key=84 velocity: 69
+@17760 
+Channel: 0 Note on, E5 key=76 velocity: 69
+@18192 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@18192 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@18240 
+Channel: 0 Note on, C5 key=72 velocity: 45
+@18672 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@18720 
+Channel: 0 Note on, E5 key=76 velocity: 60
+@19152 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@19200 
+Channel: 0 Note on, B5 key=83 velocity: 69
+@19200 
+Channel: 0 Note on, D5 key=74 velocity: 69
+@19416 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@19416 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@19440 
+Channel: 0 Note on, C6 key=84 velocity: 79
+@19440 
+Channel: 0 Note on, E5 key=76 velocity: 79
+@19656 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@19656 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@19680 
+Channel: 0 Note on, C6 key=84 velocity: 73
+@19680 
+Channel: 0 Note on, E5 key=76 velocity: 73
+@20112 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@20112 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@20160 
+Channel: 0 Note on, F#5 key=78 velocity: 68
+@20592 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@20640 
+Channel: 0 Note on, D5 key=74 velocity: 71
+@20800 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@20800 
+Channel: 0 Note on, B5 key=83 velocity: 79
+@20960 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@20960 
+Channel: 0 Note on, A5 key=81 velocity: 84
+@21120 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@21120 
+Channel: 0 Note on, A5 key=81 velocity: 63
+@21120 
+Channel: 0 Note on, F#5 key=78 velocity: 63
+@21120 
+Channel: 0 Note on, B4 key=71 velocity: 63
+@21336 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@21336 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@21336 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@21360 
+Channel: 0 Note on, B5 key=83 velocity: 88
+@21576 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@21600 
+Channel: 0 Note on, B5 key=83 velocity: 92
+@22368 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@22560 
+Channel: 0 Note on, B4 key=71 velocity: 65
+@22776 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@22800 
+Channel: 0 Note on, B5 key=83 velocity: 76
+@23016 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@23040 
+Channel: 0 Note on, B5 key=83 velocity: 68
+@23040 
+Channel: 0 Note on, B4 key=71 velocity: 68
+@23256 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@23256 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@23280 
+Channel: 0 Note on, E5 key=76 velocity: 87
+@23496 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@23520 
+Channel: 0 Note on, E5 key=76 velocity: 84
+@23736 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@23760 
+Channel: 0 Note on, B5 key=83 velocity: 93
+@23976 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@24000 
+Channel: 0 Note on, A5 key=81 velocity: 57
+@24000 
+Channel: 0 Note on, D#5 key=75 velocity: 57
+@24000 
+Channel: 0 Note on, A4 key=69 velocity: 57
+@24640 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@24640 
+Channel: 0 Note on, F#5 key=78 velocity: 76
+@24696 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@24696 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@24800 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@24800 
+Channel: 0 Note on, G5 key=79 velocity: 83
+@24960 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@24960 
+Channel: 0 Note on, A5 key=81 velocity: 55
+@24960 
+Channel: 0 Note on, D5 key=74 velocity: 55
+@24960 
+Channel: 0 Note on, A4 key=69 velocity: 55
+@25176 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@25176 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@25176 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@25200 
+Channel: 0 Note on, D5 key=74 velocity: 89
+@25416 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@25440 
+Channel: 0 Note on, D5 key=74 velocity: 85
+@25656 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@25680 
+Channel: 0 Note on, A5 key=81 velocity: 94
+@25896 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@25920 
+Channel: 0 Note on, G5 key=79 velocity: 54
+@25920 
+Channel: 0 Note on, C#5 key=73 velocity: 54
+@25920 
+Channel: 0 Note on, G4 key=67 velocity: 54
+@26136 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@26136 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@26136 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@26160 
+Channel: 0 Note on, F#5 key=78 velocity: 88
+@26376 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@26400 
+Channel: 0 Note on, F#5 key=78 velocity: 85
+@26616 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@26640 
+Channel: 0 Note on, E5 key=76 velocity: 79
+@26856 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@26880 
+Channel: 0 Note on, G5 key=79 velocity: 48
+@26880 
+Channel: 0 Note on, C5 key=72 velocity: 48
+@26880 
+Channel: 0 Note on, G4 key=67 velocity: 48
+@28480 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@28480 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@28480 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@28480 
+Channel: 0 Note on, G5 key=79 velocity: 68
+@28640 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@28640 
+Channel: 0 Note on, A5 key=81 velocity: 74
+@28800 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@28800 
+Channel: 0 Note on, A5 key=81 velocity: 66
+@28800 
+Channel: 0 Note on, C#5 key=73 velocity: 66
+@29232 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@29232 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@29280 
+Channel: 0 Note on, E5 key=76 velocity: 70
+@29712 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@29760 
+Channel: 0 Note on, B5 key=83 velocity: 61
+@29760 
+Channel: 0 Note on, D#5 key=75 velocity: 61
+@30400 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@30400 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@30400 
+Channel: 0 Note on, G4 key=67 velocity: 68
+@30560 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@30560 
+Channel: 0 Note on, A4 key=69 velocity: 73
+@30720 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@30720 
+Channel: 0 Note on, E4 key=64 velocity: 67
+@30720 
+Channel: 0 Note on, B4 key=71 velocity: 67
+@31152 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@31152 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@31200 
+Channel: 0 Note on, E4 key=64 velocity: 67
+@31360 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@31360 
+Channel: 0 Note on, B4 key=71 velocity: 76
+@31520 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@31520 
+Channel: 0 Note on, B4 key=71 velocity: 75
+@31680 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@31680 
+Channel: 0 Note on, B4 key=71 velocity: 89
+@32112 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@32160 
+Channel: 0 Note on, E4 key=64 velocity: 63
+@32320 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@32320 
+Channel: 0 Note on, A4 key=69 velocity: 77
+@32480 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@32480 
+Channel: 0 Note on, G4 key=67 velocity: 67
+@32640 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@32640 
+Channel: 0 Note on, D4 key=62 velocity: 66
+@32640 
+Channel: 0 Note on, A4 key=69 velocity: 66
+@33072 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@33072 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@33120 
+Channel: 0 Note on, D4 key=62 velocity: 66
+@34240 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@34240 
+Channel: 0 Note on, G4 key=67 velocity: 79
+@34400 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@34400 
+Channel: 0 Note on, F#4 key=66 velocity: 74
+@34560 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@34560 
+Channel: 0 Note on, C4 key=60 velocity: 64
+@34560 
+Channel: 0 Note on, G4 key=67 velocity: 64
+@34992 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@34992 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@35040 
+Channel: 0 Note on, C4 key=60 velocity: 66
+@35472 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@35520 
+Channel: 0 Note on, B3 key=59 velocity: 65
+@35840 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@35840 
+Channel: 0 Note on, C4 key=60 velocity: 65
+@35946 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@36000 
+Channel: 0 Note on, C4 key=60 velocity: 69
+@36160 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@36160 
+Channel: 0 Note on, G4 key=67 velocity: 76
+@36320 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@36320 
+Channel: 0 Note on, A4 key=69 velocity: 82
+@36480 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@36480 
+Channel: 0 Note on, A4 key=69 velocity: 88
+@36912 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@36960 
+Channel: 0 Note on, D4 key=62 velocity: 68
+@37392 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@37440 
+Channel: 0 Note on, F#4 key=66 velocity: 49
+@37872 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@37920 
+Channel: 0 Note on, B4 key=71 velocity: 88
+@38080 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@38080 
+Channel: 0 Note on, C5 key=72 velocity: 93
+@38240 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@38240 
+Channel: 0 Note on, D5 key=74 velocity: 96
+@38400 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@38400 
+@38400 
+Channel: 0 Note on, E5 key=76 velocity: 75
+@38400 
+Channel: 0 Note on, A4 key=69 velocity: 75
+@38616 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@38616 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@38640 
+Channel: 0 Note on, F4 key=65 velocity: 71
+@38856 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@38880 
+Channel: 0 Note on, A4 key=69 velocity: 76
+@39040 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@39040 
+Channel: 0 Note on, E5 key=76 velocity: 86
+@39200 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@39200 
+Channel: 0 Note on, D5 key=74 velocity: 90
+@39360 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@39360 
+Channel: 0 Note on, E5 key=76 velocity: 87
+@39576 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@39600 
+Channel: 0 Note on, F4 key=65 velocity: 71
+@39816 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@39840 
+Channel: 0 Note on, A4 key=69 velocity: 77
+@40000 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@40000 
+Channel: 0 Note on, E5 key=76 velocity: 88
+@40160 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@40160 
+Channel: 0 Note on, D5 key=74 velocity: 93
+@40320 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@40320 
+Channel: 0 Note on, E5 key=76 velocity: 75
+@40320 
+Channel: 0 Note on, B4 key=71 velocity: 75
+@40320 
+Channel: 0 Note on, F4 key=65 velocity: 75
+@41184 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@41184 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@41184 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@41280 
+Channel: 0 Note on, A4 key=69 velocity: 76
+@41712 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@41760 
+Channel: 0 Note on, G4 key=67 velocity: 73
+@41920 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@41920 
+Channel: 0 Note on, G5 key=79 velocity: 83
+@42080 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@42080 
+Channel: 0 Note on, A5 key=81 velocity: 88
+@42240 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@42240 
+@42240 
+Channel: 0 Note on, A#5 key=82 velocity: 82
+@42240 
+Channel: 0 Note on, F5 key=77 velocity: 82
+@42240 
+Channel: 0 Note on, A#4 key=70 velocity: 82
+@42456 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@42456 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@42456 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@42480 
+Channel: 0 Note on, A#4 key=70 velocity: 69
+@42696 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@42720 
+Channel: 0 Note on, D#5 key=75 velocity: 79
+@42880 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@42880 
+Channel: 0 Note on, A#5 key=82 velocity: 94
+@43040 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@43040 
+Channel: 0 Note on, A5 key=81 velocity: 90
+@43200 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@43200 
+Channel: 0 Note on, A#5 key=82 velocity: 95
+@43416 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@43440 
+Channel: 0 Note on, A#4 key=70 velocity: 72
+@43656 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@43680 
+Channel: 0 Note on, D#5 key=75 velocity: 86
+@43840 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@43840 
+Channel: 0 Note on, A#5 key=82 velocity: 94
+@44000 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@44000 
+Channel: 0 Note on, A5 key=81 velocity: 90
+@44160 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@44160 
+Channel: 0 Note on, D#5 key=75 velocity: 81
+@44160 
+Channel: 0 Note on, A#5 key=82 velocity: 81
+@44376 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@44376 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@44400 
+Channel: 0 Note on, D#4 key=63 velocity: 63
+@44616 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@44640 
+Channel: 0 Note on, A#4 key=70 velocity: 75
+@44640 
+Channel: 0 Note on, D5 key=74 velocity: 75
+@44856 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@44856 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@44880 
+Channel: 0 Note on, D#4 key=63 velocity: 59
+@45096 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@45120 
+Channel: 0 Note on, C5 key=72 velocity: 74
+@45552 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@45600 
+Channel: 0 Note on, C5 key=72 velocity: 82
+@45760 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@45760 
+Channel: 0 Note on, A#5 key=82 velocity: 90
+@45920 
+Channel: 0 Note off, A#5 key=82 velocity: 64
+@45920 
+Channel: 0 Note on, C6 key=84 velocity: 95
+@46080 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@46080 
+@46080 
+Channel: 0 Note on, D6 key=86 velocity: 92
+@46080 
+Channel: 0 Note on, G5 key=79 velocity: 92
+@46080 
+Channel: 0 Note on, D5 key=74 velocity: 92
+@46296 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@46296 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@46296 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@46320 
+Channel: 0 Note on, D5 key=74 velocity: 78
+@46536 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@46560 
+Channel: 0 Note on, G5 key=79 velocity: 88
+@46720 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@46720 
+Channel: 0 Note on, D6 key=86 velocity: 101
+@46880 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@46880 
+Channel: 0 Note on, C6 key=84 velocity: 98
+@47040 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@47040 
+Channel: 0 Note on, D6 key=86 velocity: 100
+@47256 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@47280 
+Channel: 0 Note on, D5 key=74 velocity: 80
+@47496 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@47520 
+Channel: 0 Note on, G5 key=79 velocity: 88
+@47680 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@47680 
+Channel: 0 Note on, D6 key=86 velocity: 102
+@47840 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@47840 
+Channel: 0 Note on, C6 key=84 velocity: 97
+@48000 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@48000 
+Channel: 0 Note on, D6 key=86 velocity: 88
+@48000 
+Channel: 0 Note on, G5 key=79 velocity: 88
+@48000 
+Channel: 0 Note on, D5 key=74 velocity: 88
+@48216 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@48216 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@48216 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@48240 
+Channel: 0 Note on, D4 key=62 velocity: 77
+@48456 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@48480 
+Channel: 0 Note on, G4 key=67 velocity: 86
+@48696 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@48720 
+Channel: 0 Note on, A4 key=69 velocity: 90
+@48936 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@48960 
+Channel: 0 Note on, F#4 key=66 velocity: 82
+@49600 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@49600 
+Channel: 0 Note on, D6 key=86 velocity: 88
+@49600 
+Channel: 0 Note on, D5 key=74 velocity: 88
+@49760 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@49760 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@49760 
+Channel: 0 Note on, E6 key=88 velocity: 94
+@49760 
+Channel: 0 Note on, E5 key=76 velocity: 94
+@49920 
+Channel: 0 Note off, E6 key=88 velocity: 64
+@49920 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@49920 
+@49920 
+Channel: 0 Note on, F6 key=89 velocity: 107
+@49920 
+Channel: 0 Note on, A5 key=81 velocity: 107
+@49920 
+Channel: 0 Note on, F5 key=77 velocity: 107
+@50560 
+Channel: 0 Note off, F6 key=89 velocity: 64
+@50560 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@50560 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@50560 
+Channel: 0 Note on, F6 key=89 velocity: 111
+@50720 
+Channel: 0 Note off, F6 key=89 velocity: 64
+@50720 
+Channel: 0 Note on, E6 key=88 velocity: 106
+@50880 
+Channel: 0 Note off, E6 key=88 velocity: 64
+@50880 
+Channel: 0 Note on, F6 key=89 velocity: 85
+@50880 
+Channel: 0 Note on, F5 key=77 velocity: 85
+@51096 
+Channel: 0 Note off, F6 key=89 velocity: 64
+@51096 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@51120 
+Channel: 0 Note on, E6 key=88 velocity: 81
+@51120 
+Channel: 0 Note on, E5 key=76 velocity: 81
+@51336 
+Channel: 0 Note off, E6 key=88 velocity: 64
+@51336 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@51360 
+Channel: 0 Note on, D6 key=86 velocity: 78
+@51360 
+Channel: 0 Note on, D5 key=74 velocity: 78
+@51576 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@51576 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@51600 
+Channel: 0 Note on, C6 key=84 velocity: 74
+@51600 
+Channel: 0 Note on, C5 key=72 velocity: 74
+@51816 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@51816 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@51840 
+Channel: 0 Note on, C6 key=84 velocity: 69
+@51840 
+Channel: 0 Note on, G#5 key=80 velocity: 69
+@51840 
+Channel: 0 Note on, D5 key=74 velocity: 69
+@52056 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@52056 
+Channel: 0 Note off, G#5 key=80 velocity: 64
+@52056 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@52080 
+Channel: 0 Note on, D4 key=62 velocity: 58
+@52296 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@52320 
+Channel: 0 Note on, G#4 key=68 velocity: 56
+@52536 
+Channel: 0 Note off, G#4 key=68 velocity: 64
+@52560 
+Channel: 0 Note on, C5 key=72 velocity: 53
+@52776 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@52800 
+Channel: 0 Note on, B4 key=71 velocity: 50
+@53232 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@53280 
+Channel: 0 Note on, C5 key=72 velocity: 68
+@53496 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@53520 
+Channel: 0 Note on, D5 key=74 velocity: 73
+@53736 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@53760 
+Channel: 0 Note on, B5 key=83 velocity: 80
+@53760 
+Channel: 0 Note on, G5 key=79 velocity: 80
+@53760 
+Channel: 0 Note on, B4 key=71 velocity: 80
+@53976 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@53976 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@53976 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@54000 
+Channel: 0 Note on, B4 key=71 velocity: 72
+@54216 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@54240 
+Channel: 0 Note on, D5 key=74 velocity: 91
+@54400 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@54400 
+Channel: 0 Note on, B5 key=83 velocity: 83
+@54400 
+Channel: 0 Note on, B4 key=71 velocity: 83
+@54560 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@54560 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@54560 
+Channel: 0 Note on, A5 key=81 velocity: 98
+@54720 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@54720 
+Channel: 0 Note on, B5 key=83 velocity: 100
+@55152 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@55200 
+Channel: 0 Note on, C5 key=72 velocity: 88
+@55360 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@55360 
+Channel: 0 Note on, B5 key=83 velocity: 103
+@55520 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@55520 
+Channel: 0 Note on, A5 key=81 velocity: 99
+@55680 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@55680 
+Channel: 0 Note on, B5 key=83 velocity: 83
+@55680 
+Channel: 0 Note on, F5 key=77 velocity: 83
+@55680 
+Channel: 0 Note on, C5 key=72 velocity: 83
+@55896 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@55896 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@55896 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@55920 
+Channel: 0 Note on, C6 key=84 velocity: 97
+@56136 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@56160 
+Channel: 0 Note on, C6 key=84 velocity: 94
+@56160 
+Channel: 0 Note on, C5 key=72 velocity: 94
+@56592 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@56592 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@56640 
+Channel: 0 Note on, E4 key=64 velocity: 46
+@56640 
+Channel: 0 Note on, G4 key=67 velocity: 46
+@56640 
+Channel: 0 Note on, C5 key=72 velocity: 46
+@57072 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@57072 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@57072 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@57120 
+Channel: 0 Note on, D4 key=62 velocity: 55
+@57120 
+Channel: 0 Note on, F4 key=65 velocity: 55
+@57552 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@57552 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@57600 
+Channel: 0 Note on, B5 key=83 velocity: 86
+@57600 
+Channel: 0 Note on, F5 key=77 velocity: 86
+@57600 
+Channel: 0 Note on, B4 key=71 velocity: 86
+@57816 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@57816 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@57816 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@57840 
+Channel: 0 Note on, C6 key=84 velocity: 99
+@58056 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@58080 
+Channel: 0 Note on, C6 key=84 velocity: 86
+@58080 
+Channel: 0 Note on, F5 key=77 velocity: 86
+@58080 
+Channel: 0 Note on, C5 key=72 velocity: 86
+@58512 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@58512 
+Channel: 0 Note off, F5 key=77 velocity: 64
+@58512 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@58560 
+Channel: 0 Note on, C5 key=72 velocity: 73
+@58992 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@59040 
+Channel: 0 Note on, B4 key=71 velocity: 85
+@59200 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@59200 
+Channel: 0 Note on, B5 key=83 velocity: 103
+@59360 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@59360 
+Channel: 0 Note on, A5 key=81 velocity: 99
+@59520 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@59520 
+Channel: 0 Note on, A5 key=81 velocity: 83
+@59520 
+Channel: 0 Note on, E5 key=76 velocity: 83
+@59520 
+Channel: 0 Note on, B4 key=71 velocity: 83
+@59736 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@59736 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@59736 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@59760 
+Channel: 0 Note on, B5 key=83 velocity: 96
+@59976 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@60000 
+Channel: 0 Note on, B5 key=83 velocity: 93
+@60000 
+Channel: 0 Note on, B4 key=71 velocity: 93
+@60432 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@60432 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@60480 
+Channel: 0 Note on, B4 key=71 velocity: 66
+@60912 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@60960 
+Channel: 0 Note on, E4 key=64 velocity: 71
+@61392 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@61440 
+@61440 
+Channel: 0 Note on, B5 key=83 velocity: 83
+@61440 
+Channel: 0 Note on, B4 key=71 velocity: 83
+@61656 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@61656 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@61680 
+Channel: 0 Note on, E5 key=76 velocity: 95
+@61896 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@61920 
+Channel: 0 Note on, E5 key=76 velocity: 89
+@62136 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@62160 
+Channel: 0 Note on, B5 key=83 velocity: 99
+@62376 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@62400 
+Channel: 0 Note on, A5 key=81 velocity: 66
+@62400 
+Channel: 0 Note on, D#5 key=75 velocity: 66
+@62400 
+Channel: 0 Note on, A4 key=69 velocity: 66
+@62592 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@62592 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@62592 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@62640 
+Channel: 0 Note on, A4 key=69 velocity: 63
+@62856 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@62880 
+Channel: 0 Note on, D#5 key=75 velocity: 83
+@63040 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@63040 
+Channel: 0 Note on, F#5 key=78 velocity: 86
+@63200 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@63200 
+Channel: 0 Note on, G5 key=79 velocity: 90
+@63360 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@63360 
+Channel: 0 Note on, A5 key=81 velocity: 61
+@63360 
+Channel: 0 Note on, D5 key=74 velocity: 61
+@63360 
+Channel: 0 Note on, A4 key=69 velocity: 61
+@63576 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@63576 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@63576 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@63600 
+Channel: 0 Note on, D5 key=74 velocity: 94
+@63816 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@63840 
+Channel: 0 Note on, D5 key=74 velocity: 92
+@64056 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@64080 
+Channel: 0 Note on, A5 key=81 velocity: 99
+@64296 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@64320 
+Channel: 0 Note on, G5 key=79 velocity: 58
+@64320 
+Channel: 0 Note on, C#5 key=73 velocity: 58
+@64320 
+Channel: 0 Note on, G4 key=67 velocity: 58
+@64536 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@64536 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@64536 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@64560 
+Channel: 0 Note on, F#5 key=78 velocity: 95
+@64776 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@64800 
+Channel: 0 Note on, F#5 key=78 velocity: 93
+@65016 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@65040 
+Channel: 0 Note on, E5 key=76 velocity: 90
+@65256 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@65280 
+Channel: 0 Note on, G5 key=79 velocity: 57
+@65280 
+Channel: 0 Note on, C5 key=72 velocity: 57
+@65280 
+Channel: 0 Note on, G4 key=67 velocity: 57
+@66048 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@66048 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@66048 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@66240 
+Channel: 0 Note on, G4 key=67 velocity: 61
+@66880 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@66880 
+Channel: 0 Note on, G5 key=79 velocity: 74
+@67040 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@67040 
+Channel: 0 Note on, A5 key=81 velocity: 78
+@67200 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@67200 
+Channel: 0 Note on, A5 key=81 velocity: 67
+@67200 
+Channel: 0 Note on, C#5 key=73 velocity: 67
+@67632 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@67632 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@67680 
+Channel: 0 Note on, E5 key=76 velocity: 75
+@68112 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@68160 
+Channel: 0 Note on, B5 key=83 velocity: 58
+@68160 
+Channel: 0 Note on, D#5 key=75 velocity: 58
+@68928 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@68928 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@69120 
+Channel: 0 Note on, G4 key=67 velocity: 59
+@69120 
+Channel: 0 Note on, B4 key=71 velocity: 59
+@69760 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@69760 
+Channel: 0 Note on, B4 key=71 velocity: 83
+@69816 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@69920 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@69920 
+Channel: 0 Note on, A4 key=69 velocity: 82
+@70080 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@70080 
+Channel: 0 Note on, B4 key=71 velocity: 86
+@70720 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@70720 
+Channel: 0 Note on, B4 key=71 velocity: 89
+@70880 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@70880 
+Channel: 0 Note on, A4 key=69 velocity: 86
+@71040 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@71040 
+Channel: 0 Note on, C4 key=60 velocity: 72
+@71040 
+Channel: 0 Note on, E4 key=64 velocity: 72
+@71040 
+Channel: 0 Note on, B4 key=71 velocity: 72
+@71256 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@71256 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@71256 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@71280 
+Channel: 0 Note on, C5 key=72 velocity: 95
+@71496 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@71520 
+Channel: 0 Note on, C5 key=72 velocity: 92
+@71952 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@72000 
+Channel: 0 Note on, E4 key=64 velocity: 66
+@72216 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@72240 
+Channel: 0 Note on, G4 key=67 velocity: 71
+@72456 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@72480 
+Channel: 0 Note on, G5 key=79 velocity: 101
+@72640 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@72640 
+Channel: 0 Note on, E5 key=76 velocity: 98
+@72800 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@72800 
+Channel: 0 Note on, C5 key=72 velocity: 96
+@72960 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@72960 
+Channel: 0 Note on, B3 key=59 velocity: 74
+@72960 
+Channel: 0 Note on, F#4 key=66 velocity: 74
+@72960 
+Channel: 0 Note on, B4 key=71 velocity: 74
+@73176 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@73176 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@73176 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@73200 
+Channel: 0 Note on, C5 key=72 velocity: 95
+@73416 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@73440 
+Channel: 0 Note on, C4 key=60 velocity: 77
+@73440 
+Channel: 0 Note on, E4 key=64 velocity: 77
+@73440 
+Channel: 0 Note on, C5 key=72 velocity: 77
+@73872 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@73872 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@73872 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@73920 
+Channel: 0 Note on, F#4 key=66 velocity: 73
+@74352 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@74400 
+Channel: 0 Note on, D4 key=62 velocity: 79
+@74560 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@74560 
+Channel: 0 Note on, B4 key=71 velocity: 100
+@74720 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@74720 
+Channel: 0 Note on, A4 key=69 velocity: 96
+@74880 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@74880 
+Channel: 0 Note on, B3 key=59 velocity: 74
+@74880 
+Channel: 0 Note on, F#4 key=66 velocity: 74
+@74880 
+Channel: 0 Note on, A4 key=69 velocity: 74
+@75096 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@75096 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@75096 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@75120 
+Channel: 0 Note on, B4 key=71 velocity: 100
+@75336 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@75360 
+Channel: 0 Note on, B4 key=71 velocity: 104
+@76656 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@76800 
+Channel: 0 Note on, E4 key=64 velocity: 87
+@76800 
+Channel: 0 Note on, G4 key=67 velocity: 87
+@76800 
+Channel: 0 Note on, B4 key=71 velocity: 87
+@76800 
+Channel: 0 Note on, E5 key=76 velocity: 87
+@77232 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@77232 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@77232 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@77232 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@77280 
+Channel: 0 Note on, B4 key=71 velocity: 106
+@77440 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@77440 
+Channel: 0 Note on, E5 key=76 velocity: 113
+@77600 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@77600 
+Channel: 0 Note on, B5 key=83 velocity: 117
+@77760 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@77760 
+Channel: 0 Note on, A5 key=81 velocity: 87
+@77760 
+Channel: 0 Note on, D#5 key=75 velocity: 87
+@77760 
+Channel: 0 Note on, C5 key=72 velocity: 87
+@77760 
+Channel: 0 Note on, A4 key=69 velocity: 87
+@77976 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@77976 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@77976 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@77976 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@78000 
+Channel: 0 Note on, A4 key=69 velocity: 72
+@78216 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@78240 
+Channel: 0 Note on, D#5 key=75 velocity: 104
+@78400 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@78400 
+Channel: 0 Note on, F#5 key=78 velocity: 108
+@78560 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@78560 
+Channel: 0 Note on, G5 key=79 velocity: 112
+@78720 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@78720 
+Channel: 0 Note on, A5 key=81 velocity: 74
+@78720 
+Channel: 0 Note on, F#5 key=78 velocity: 74
+@78720 
+Channel: 0 Note on, D5 key=74 velocity: 74
+@78720 
+Channel: 0 Note on, A4 key=69 velocity: 74
+@78936 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@78936 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@78936 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@78936 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@78960 
+Channel: 0 Note on, A4 key=69 velocity: 99
+@79176 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@79200 
+Channel: 0 Note on, D5 key=74 velocity: 104
+@79416 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@79440 
+Channel: 0 Note on, A5 key=81 velocity: 108
+@79656 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@79680 
+Channel: 0 Note on, G5 key=79 velocity: 65
+@79680 
+Channel: 0 Note on, C#5 key=73 velocity: 65
+@79680 
+Channel: 0 Note on, A#4 key=70 velocity: 65
+@79680 
+Channel: 0 Note on, G4 key=67 velocity: 65
+@79896 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@79896 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@79896 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@79896 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@79920 
+Channel: 0 Note on, F#5 key=78 velocity: 98
+@80136 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@80160 
+Channel: 0 Note on, F#5 key=78 velocity: 76
+@80160 
+Channel: 0 Note on, G4 key=67 velocity: 76
+@80376 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@80376 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@80400 
+Channel: 0 Note on, E5 key=76 velocity: 94
+@80616 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@80640 
+Channel: 0 Note on, G5 key=79 velocity: 67
+@80640 
+Channel: 0 Note on, C5 key=72 velocity: 67
+@80640 
+Channel: 0 Note on, G4 key=67 velocity: 67
+@81936 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@81936 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@81936 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@82080 
+Channel: 0 Note on, C5 key=72 velocity: 94
+@82240 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@82240 
+Channel: 0 Note on, G5 key=79 velocity: 104
+@82400 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@82400 
+Channel: 0 Note on, A5 key=81 velocity: 107
+@82560 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@82560 
+Channel: 0 Note on, A5 key=81 velocity: 92
+@82560 
+Channel: 0 Note on, C#5 key=73 velocity: 92
+@82560 
+Channel: 0 Note on, A4 key=69 velocity: 92
+@82992 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@82992 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@82992 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@83040 
+Channel: 0 Note on, E5 key=76 velocity: 105
+@83472 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@83520 
+Channel: 0 Note on, B5 key=83 velocity: 97
+@83520 
+Channel: 0 Note on, D#5 key=75 velocity: 97
+@83952 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@83952 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@84000 
+Channel: 0 Note on, D#4 key=63 velocity: 82
+@84000 
+Channel: 0 Note on, F#4 key=66 velocity: 82
+@84000 
+Channel: 0 Note on, B4 key=71 velocity: 82
+@84432 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@84432 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@84432 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@84480 
+Channel: 0 Note on, B3 key=59 velocity: 70
+@84480 
+Channel: 0 Note on, E4 key=64 velocity: 70
+@84480 
+Channel: 0 Note on, G4 key=67 velocity: 70
+@84480 
+Channel: 0 Note on, B4 key=71 velocity: 70
+@84912 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@84912 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@84912 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@84912 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@84960 
+Channel: 0 Note on, B4 key=71 velocity: 92
+@85120 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@85120 
+Channel: 0 Note on, B5 key=83 velocity: 109
+@85280 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@85280 
+Channel: 0 Note on, A5 key=81 velocity: 105
+@85440 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@85440 
+Channel: 0 Note on, B5 key=83 velocity: 80
+@85440 
+Channel: 0 Note on, B4 key=71 velocity: 80
+@85872 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@85872 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@85920 
+Channel: 0 Note on, B4 key=71 velocity: 90
+@86080 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@86080 
+Channel: 0 Note on, B5 key=83 velocity: 109
+@86240 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@86240 
+Channel: 0 Note on, A5 key=81 velocity: 106
+@86400 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@86400 
+Channel: 0 Note on, B5 key=83 velocity: 86
+@86400 
+Channel: 0 Note on, D5 key=74 velocity: 86
+@86400 
+Channel: 0 Note on, B4 key=71 velocity: 86
+@86616 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@86616 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@86616 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@86640 
+Channel: 0 Note on, C6 key=84 velocity: 106
+@86856 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@86880 
+Channel: 0 Note on, C6 key=84 velocity: 110
+@87312 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@87360 
+Channel: 0 Note on, G5 key=79 velocity: 61
+@87360 
+Channel: 0 Note on, C5 key=72 velocity: 61
+@87792 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@87792 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@87840 
+Channel: 0 Note on, E5 key=76 velocity: 86
+@88056 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@88080 
+Channel: 0 Note on, C5 key=72 velocity: 80
+@88296 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@88320 
+Channel: 0 Note on, B5 key=83 velocity: 83
+@88320 
+Channel: 0 Note on, D5 key=74 velocity: 83
+@88320 
+Channel: 0 Note on, B4 key=71 velocity: 83
+@88536 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@88536 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@88536 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@88560 
+Channel: 0 Note on, C6 key=84 velocity: 92
+@88560 
+Channel: 0 Note on, E5 key=76 velocity: 92
+@88560 
+Channel: 0 Note on, C5 key=72 velocity: 92
+@88776 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@88776 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@88776 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@88800 
+Channel: 0 Note on, C6 key=84 velocity: 101
+@88800 
+Channel: 0 Note on, E5 key=76 velocity: 101
+@88800 
+Channel: 0 Note on, C5 key=72 velocity: 101
+@89920 
+Channel: 0 Note off, C6 key=84 velocity: 64
+@89920 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@89920 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@89920 
+Channel: 0 Note on, B5 key=83 velocity: 111
+@90080 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@90080 
+Channel: 0 Note on, A5 key=81 velocity: 108
+@90240 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@90240 
+Channel: 0 Note on, A5 key=81 velocity: 87
+@90240 
+Channel: 0 Note on, F#5 key=78 velocity: 87
+@90240 
+Channel: 0 Note on, B4 key=71 velocity: 87
+@90456 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@90456 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@90456 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@90480 
+Channel: 0 Note on, B5 key=83 velocity: 107
+@90696 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@90720 
+Channel: 0 Note on, B5 key=83 velocity: 89
+@90720 
+Channel: 0 Note on, B4 key=71 velocity: 89
+@91152 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@91152 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@91200 
+Channel: 0 Note on, F#4 key=66 velocity: 52
+@91200 
+Channel: 0 Note on, B4 key=71 velocity: 52
+@91632 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@91632 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@91680 
+Channel: 0 Note on, D4 key=62 velocity: 65
+@91896 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@91920 
+Channel: 0 Note on, F#4 key=66 velocity: 73
+@92136 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@92160 
+Channel: 0 Note on, B5 key=83 velocity: 88
+@92160 
+Channel: 0 Note on, B4 key=71 velocity: 88
+@92376 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@92376 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@92400 
+Channel: 0 Note on, E5 key=76 velocity: 101
+@92616 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@92640 
+Channel: 0 Note on, E5 key=76 velocity: 88
+@92640 
+Channel: 0 Note on, B4 key=71 velocity: 88
+@92856 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@92856 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@92880 
+Channel: 0 Note on, B5 key=83 velocity: 106
+@93096 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@93120 
+Channel: 0 Note on, A5 key=81 velocity: 81
+@93120 
+Channel: 0 Note on, D#5 key=75 velocity: 81
+@93120 
+Channel: 0 Note on, C5 key=72 velocity: 81
+@93120 
+Channel: 0 Note on, A4 key=69 velocity: 81
+@93336 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@93336 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@93336 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@93336 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@93360 
+Channel: 0 Note on, A4 key=69 velocity: 62
+@93576 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@93600 
+Channel: 0 Note on, D#5 key=75 velocity: 88
+@93760 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@93760 
+Channel: 0 Note on, F#5 key=78 velocity: 94
+@93920 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@93920 
+Channel: 0 Note on, G5 key=79 velocity: 99
+@94080 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@94080 
+Channel: 0 Note on, A5 key=81 velocity: 81
+@94080 
+Channel: 0 Note on, D5 key=74 velocity: 81
+@94080 
+Channel: 0 Note on, A4 key=69 velocity: 81
+@94296 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@94296 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@94296 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@94320 
+Channel: 0 Note on, D5 key=74 velocity: 91
+@94536 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@94560 
+Channel: 0 Note on, D6 key=86 velocity: 111
+@94776 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@94800 
+Channel: 0 Note on, A5 key=81 velocity: 107
+@95016 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@95040 
+Channel: 0 Note on, G5 key=79 velocity: 63
+@95040 
+Channel: 0 Note on, C#5 key=73 velocity: 63
+@95040 
+Channel: 0 Note on, A#4 key=70 velocity: 63
+@95040 
+Channel: 0 Note on, G4 key=67 velocity: 63
+@95256 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@95256 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@95256 
+Channel: 0 Note off, A#4 key=70 velocity: 64
+@95256 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@95280 
+Channel: 0 Note on, F#5 key=78 velocity: 96
+@95496 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@95520 
+Channel: 0 Note on, F#5 key=78 velocity: 94
+@95736 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@95760 
+Channel: 0 Note on, E5 key=76 velocity: 91
+@95976 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@96000 
+Channel: 0 Note on, G5 key=79 velocity: 60
+@96000 
+Channel: 0 Note on, C5 key=72 velocity: 60
+@96000 
+Channel: 0 Note on, G4 key=67 velocity: 60
+@97176 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@97176 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@97176 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@97200 
+Channel: 0 Note on, G4 key=67 velocity: 46
+@97416 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@97440 
+Channel: 0 Note on, C5 key=72 velocity: 75
+@97600 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@97600 
+Channel: 0 Note on, G5 key=79 velocity: 83
+@97760 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@97760 
+Channel: 0 Note on, A5 key=81 velocity: 88
+@97920 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@97920 
+Channel: 0 Note on, A5 key=81 velocity: 60
+@97920 
+Channel: 0 Note on, C#5 key=73 velocity: 60
+@97920 
+Channel: 0 Note on, A4 key=69 velocity: 60
+@98352 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@98352 
+Channel: 0 Note off, C#5 key=73 velocity: 64
+@98352 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@98400 
+Channel: 0 Note on, E5 key=76 velocity: 75
+@98832 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@98880 
+Channel: 0 Note on, B5 key=83 velocity: 62
+@98880 
+Channel: 0 Note on, D#5 key=75 velocity: 62
+@99096 
+Channel: 0 Note off, B5 key=83 velocity: 64
+@99096 
+Channel: 0 Note off, D#5 key=75 velocity: 64
+@99120 
+Channel: 0 Note on, A5 key=81 velocity: 79
+@99336 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@99360 
+Channel: 0 Note on, G5 key=79 velocity: 75
+@99576 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@99600 
+Channel: 0 Note on, F#5 key=78 velocity: 71
+@99816 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@99840 
+Channel: 0 Note on, F#5 key=78 velocity: 58
+@99840 
+Channel: 0 Note on, C5 key=72 velocity: 58
+@99840 
+Channel: 0 Note on, G4 key=67 velocity: 58
+@99840 
+Channel: 0 Note on, F#5 key=78 velocity: 58
+@99840 
+Channel: 0 Note on, C5 key=72 velocity: 58
+@99840 
+Channel: 0 Note on, G4 key=67 velocity: 58
+@100704 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@100704 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@100704 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@100704 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@100704 
+Channel: 0 Note off, C5 key=72 velocity: 64
+@100704 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@100800 
+Channel: 0 Note on, E5 key=76 velocity: 57
+@100800 
+Channel: 0 Note on, G4 key=67 velocity: 57
+@101448 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@101520 
+Channel: 0 Note on, G4 key=67 velocity: 59
+@101664 
+Channel: 0 Note off, E5 key=76 velocity: 64
+@101736 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@101760 
+Channel: 0 Note on, E4 key=64 velocity: 58
+@101760 
+Channel: 0 Note on, F#4 key=66 velocity: 58
+@101760 
+Channel: 0 Note on, B4 key=71 velocity: 58
+@102192 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@102192 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@102192 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@102240 
+Channel: 0 Note on, E4 key=64 velocity: 68
+@102456 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@102480 
+Channel: 0 Note on, B4 key=71 velocity: 72
+@102696 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@102720 
+Channel: 0 Note on, D#4 key=63 velocity: 60
+@102720 
+Channel: 0 Note on, A4 key=69 velocity: 60
+@103584 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@103584 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@103680 
+Channel: 0 Note on, F#4 key=66 velocity: 63
+@104112 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@104160 
+Channel: 0 Note on, F#4 key=66 velocity: 57
+@104484 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@104520 
+Channel: 0 Note on, A4 key=69 velocity: 62
+@104628 
+Channel: 0 Note off, A4 key=69 velocity: 64
+@104640 
+Channel: 0 Note on, F#4 key=66 velocity: 62
+@104748 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@104760 
+Channel: 0 Note on, B4 key=71 velocity: 61
+@104868 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@104880 
+Channel: 0 Note on, D5 key=74 velocity: 61
+@104988 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@105000 
+Channel: 0 Note on, A5 key=81 velocity: 60
+@105108 
+Channel: 0 Note off, A5 key=81 velocity: 64
+@105120 
+Channel: 0 Note on, F#5 key=78 velocity: 58
+@105336 
+Channel: 0 Note off, F#5 key=78 velocity: 64
+@105360 
+Channel: 0 Note on, G5 key=79 velocity: 54
+@105576 
+Channel: 0 Note off, G5 key=79 velocity: 64
+@105600 
+Channel: 0 Note on, D6 key=86 velocity: 45
+@105600 
+Channel: 0 Note on, D5 key=74 velocity: 45
+@107328 
+Channel: 0 Note off, D6 key=86 velocity: 64
+@107328 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@107519 
+Track 3: size = 965
+@0 
+@0 
+@0 
+@0 
+Channel: 0 Command:192@0 
+Channel: 0 Command:176@0 
+Channel: 0 Command:176@0 
+Channel: 0 Command:176@0 
+Channel: 0 Note on, E3 key=52 velocity: 39
+@216 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@240 
+Channel: 0 Note on, B3 key=59 velocity: 39
+@456 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@480 
+Channel: 0 Note on, G4 key=67 velocity: 38
+@696 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@720 
+Channel: 0 Note on, B4 key=71 velocity: 36
+@936 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@960 
+Channel: 0 Note on, D5 key=74 velocity: 43
+@1176 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@1200 
+Channel: 0 Note on, B4 key=71 velocity: 38
+@1416 
+Channel: 0 Note off, B4 key=71 velocity: 64
+@1440 
+Channel: 0 Note on, D5 key=74 velocity: 31
+@1872 
+Channel: 0 Note off, D5 key=74 velocity: 64
+@1901 
+Channel: 0 Command:176@1920 
+Channel: 0 Command:176@1920 
+Channel: 0 Note on, A2 key=45 velocity: 39
+@2136 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@2160 
+Channel: 0 Note on, E3 key=52 velocity: 43
+@2376 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@2400 
+Channel: 0 Note on, C4 key=60 velocity: 39
+@2616 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@2640 
+Channel: 0 Note on, E4 key=64 velocity: 35
+@2856 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@2880 
+Channel: 0 Note on, G4 key=67 velocity: 30
+@3648 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@3821 
+Channel: 0 Command:176@3840 
+Channel: 0 Note on, D3 key=50 velocity: 45
+@3840 
+Channel: 0 Command:176@4056 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@4080 
+Channel: 0 Note on, A3 key=57 velocity: 43
+@4296 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@4320 
+Channel: 0 Note on, E4 key=64 velocity: 40
+@4536 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@4560 
+Channel: 0 Note on, G4 key=67 velocity: 36
+@5664 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@5741 
+Channel: 0 Command:176@5760 
+Channel: 0 Command:176@5760 
+Channel: 0 Note on, G2 key=43 velocity: 41
+@5976 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@6000 
+Channel: 0 Note on, D3 key=50 velocity: 44
+@6216 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@6240 
+Channel: 0 Note on, A3 key=57 velocity: 48
+@6456 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@6480 
+Channel: 0 Note on, B3 key=59 velocity: 51
+@6696 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@6720 
+Channel: 0 Note on, D4 key=62 velocity: 50
+@6936 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@6960 
+Channel: 0 Note on, B3 key=59 velocity: 45
+@7176 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@7200 
+Channel: 0 Note on, D4 key=62 velocity: 40
+@7632 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@7661 
+Channel: 0 Command:176@7680 
+Channel: 0 Command:176@7680 
+Channel: 0 Note on, C#3 key=49 velocity: 46
+@7896 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@7920 
+Channel: 0 Note on, A3 key=57 velocity: 52
+@8136 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@8160 
+Channel: 0 Note on, E4 key=64 velocity: 56
+@8376 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@8400 
+Channel: 0 Note on, A3 key=57 velocity: 48
+@8616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@8621 
+Channel: 0 Command:176@8640 
+Channel: 0 Command:176@8640 
+Channel: 0 Note on, C3 key=48 velocity: 53
+@8856 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@8880 
+Channel: 0 Note on, A3 key=57 velocity: 48
+@9096 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@9120 
+Channel: 0 Note on, C4 key=60 velocity: 43
+@9552 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@9581 
+Channel: 0 Command:176@9600 
+Channel: 0 Command:176@9600 
+Channel: 0 Note on, B2 key=47 velocity: 45
+@9816 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@9840 
+Channel: 0 Note on, G3 key=55 velocity: 50
+@10056 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@10080 
+Channel: 0 Note on, B3 key=59 velocity: 55
+@10296 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@10320 
+Channel: 0 Note on, B2 key=47 velocity: 46
+@10536 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@10545 
+Channel: 0 Command:176@10560 
+Channel: 0 Note on, A#2 key=46 velocity: 46
+@10560 
+Channel: 0 Command:176@10776 
+Channel: 0 Note off, A#2 key=46 velocity: 64
+@10800 
+Channel: 0 Note on, G3 key=55 velocity: 50
+@11016 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@11040 
+Channel: 0 Note on, C#4 key=61 velocity: 54
+@11256 
+Channel: 0 Note off, C#4 key=61 velocity: 64
+@11280 
+Channel: 0 Note on, G3 key=55 velocity: 44
+@11496 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@11501 
+Channel: 0 Command:176@11520 
+Channel: 0 Command:176@11520 
+Channel: 0 Note on, A2 key=45 velocity: 39
+@11736 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@11760 
+Channel: 0 Note on, E3 key=52 velocity: 46
+@11976 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@12000 
+Channel: 0 Note on, B3 key=59 velocity: 53
+@12216 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@12240 
+Channel: 0 Note on, C4 key=60 velocity: 56
+@12456 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@12480 
+Channel: 0 Note on, E4 key=64 velocity: 47
+@12696 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@12720 
+Channel: 0 Note on, C4 key=60 velocity: 40
+@12936 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@12960 
+Channel: 0 Note on, E4 key=64 velocity: 36
+@13392 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@13421 
+Channel: 0 Command:176@13440 
+Channel: 0 Command:176@13440 
+Channel: 0 Note on, B2 key=47 velocity: 44
+@13656 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@13680 
+Channel: 0 Note on, F#3 key=54 velocity: 42
+@13896 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@13920 
+Channel: 0 Note on, A3 key=57 velocity: 38
+@14136 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@14160 
+Channel: 0 Note on, F#3 key=54 velocity: 33
+@14376 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@14390 
+Channel: 0 Command:176@14400 
+Channel: 0 Command:176@14400 
+Channel: 0 Note on, B3 key=59 velocity: 29
+@15168 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@15341 
+Channel: 0 Command:176@15360 
+Channel: 0 Command:176@15360 
+Channel: 0 Note on, E3 key=52 velocity: 46
+@15576 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@15600 
+Channel: 0 Note on, B3 key=59 velocity: 51
+@15816 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@15840 
+Channel: 0 Note on, G4 key=67 velocity: 55
+@16056 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@16080 
+Channel: 0 Note on, B3 key=59 velocity: 47
+@16296 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@16320 
+Channel: 0 Note on, E4 key=64 velocity: 53
+@16536 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@16560 
+Channel: 0 Note on, B3 key=59 velocity: 44
+@16776 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@16800 
+Channel: 0 Note on, G4 key=67 velocity: 53
+@17016 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@17040 
+Channel: 0 Note on, B3 key=59 velocity: 44
+@17256 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@17261 
+Channel: 0 Command:176@17280 
+Channel: 0 Command:176@17280 
+Channel: 0 Note on, A2 key=45 velocity: 46
+@17496 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@17520 
+Channel: 0 Note on, E3 key=52 velocity: 51
+@17736 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@17760 
+Channel: 0 Note on, C4 key=60 velocity: 54
+@17976 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@18000 
+Channel: 0 Note on, E4 key=64 velocity: 58
+@18456 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@18480 
+Channel: 0 Note on, E4 key=64 velocity: 51
+@18696 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@18720 
+Channel: 0 Note on, A3 key=57 velocity: 47
+@18936 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@18960 
+Channel: 0 Note on, A2 key=45 velocity: 45
+@19176 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@19181 
+Channel: 0 Command:176@19200 
+Channel: 0 Command:176@19200 
+Channel: 0 Note on, D3 key=50 velocity: 48
+@19416 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@19440 
+Channel: 0 Note on, A3 key=57 velocity: 53
+@19656 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@19680 
+Channel: 0 Note on, E4 key=64 velocity: 57
+@19896 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@19920 
+Channel: 0 Note on, A3 key=57 velocity: 49
+@20136 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@20160 
+Channel: 0 Note on, C4 key=60 velocity: 56
+@20376 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@20400 
+Channel: 0 Note on, A3 key=57 velocity: 47
+@20616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@20640 
+Channel: 0 Note on, C4 key=60 velocity: 53
+@20856 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@20880 
+Channel: 0 Note on, D3 key=50 velocity: 45
+@21096 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@21101 
+Channel: 0 Command:176@21120 
+Channel: 0 Note on, G2 key=43 velocity: 49
+@21120 
+Channel: 0 Command:176@21336 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@21360 
+Channel: 0 Note on, D3 key=50 velocity: 52
+@21576 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@21600 
+Channel: 0 Note on, A3 key=57 velocity: 56
+@21816 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@21840 
+Channel: 0 Note on, B3 key=59 velocity: 59
+@22056 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@22080 
+Channel: 0 Note on, D4 key=62 velocity: 62
+@22296 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@22320 
+Channel: 0 Note on, B3 key=59 velocity: 58
+@22992 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@23021 
+Channel: 0 Command:176@23040 
+Channel: 0 Command:176@23040 
+Channel: 0 Note on, C#3 key=49 velocity: 55
+@23256 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@23280 
+Channel: 0 Note on, A3 key=57 velocity: 59
+@23496 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@23520 
+Channel: 0 Note on, E4 key=64 velocity: 63
+@23736 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@23760 
+Channel: 0 Note on, A3 key=57 velocity: 52
+@23976 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@23981 
+Channel: 0 Command:176@24000 
+Channel: 0 Command:176@24000 
+Channel: 0 Note on, C3 key=48 velocity: 62
+@24216 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@24240 
+Channel: 0 Note on, A3 key=57 velocity: 57
+@24456 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@24480 
+Channel: 0 Note on, D#4 key=63 velocity: 52
+@24912 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@24941 
+Channel: 0 Command:176@24960 
+Channel: 0 Command:176@24960 
+Channel: 0 Note on, B2 key=47 velocity: 51
+@25176 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@25200 
+Channel: 0 Note on, G3 key=55 velocity: 58
+@25416 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@25440 
+Channel: 0 Note on, B3 key=59 velocity: 63
+@25656 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@25680 
+Channel: 0 Note on, G3 key=55 velocity: 54
+@25896 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@25901 
+Channel: 0 Command:176@25920 
+Channel: 0 Note on, A#2 key=46 velocity: 50
+@25920 
+Channel: 0 Command:176@26136 
+Channel: 0 Note off, A#2 key=46 velocity: 64
+@26160 
+Channel: 0 Note on, G3 key=55 velocity: 55
+@26376 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@26400 
+Channel: 0 Note on, C#4 key=61 velocity: 64
+@26616 
+Channel: 0 Note off, C#4 key=61 velocity: 64
+@26640 
+Channel: 0 Note on, G3 key=55 velocity: 49
+@26856 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@26861 
+Channel: 0 Command:176@26880 
+Channel: 0 Command:176@26880 
+Channel: 0 Note on, A2 key=45 velocity: 50
+@27096 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@27120 
+Channel: 0 Note on, E3 key=52 velocity: 52
+@27336 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@27360 
+Channel: 0 Note on, B3 key=59 velocity: 55
+@27576 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@27600 
+Channel: 0 Note on, C4 key=60 velocity: 59
+@27816 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@27840 
+Channel: 0 Note on, E4 key=64 velocity: 58
+@28056 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@28080 
+Channel: 0 Note on, C4 key=60 velocity: 49
+@28296 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@28320 
+Channel: 0 Note on, G4 key=67 velocity: 55
+@28512 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@28560 
+Channel: 0 Note on, E4 key=64 velocity: 47
+@28776 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@28781 
+Channel: 0 Command:176@28800 
+Channel: 0 Command:176@28800 
+Channel: 0 Note on, B2 key=47 velocity: 47
+@29016 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@29040 
+Channel: 0 Note on, F#3 key=54 velocity: 52
+@29256 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@29280 
+Channel: 0 Note on, B3 key=59 velocity: 58
+@29496 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@29520 
+Channel: 0 Note on, F#3 key=54 velocity: 53
+@29736 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@29750 
+Channel: 0 Command:176@29760 
+Channel: 0 Command:176@29760 
+Channel: 0 Note on, A3 key=57 velocity: 48
+@30528 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@30701 
+Channel: 0 Command:176@30720 
+Channel: 0 Command:176@30720 
+Channel: 0 Note on, C3 key=48 velocity: 52
+@30936 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@30960 
+Channel: 0 Note on, G3 key=55 velocity: 61
+@31176 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@31200 
+Channel: 0 Note on, B3 key=59 velocity: 66
+@31416 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@31440 
+Channel: 0 Note on, G3 key=55 velocity: 58
+@31656 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@31680 
+Channel: 0 Note on, B3 key=59 velocity: 67
+@31896 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@31920 
+Channel: 0 Note on, G3 key=55 velocity: 57
+@32136 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@32160 
+Channel: 0 Note on, B3 key=59 velocity: 66
+@32376 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@32400 
+Channel: 0 Note on, C3 key=48 velocity: 55
+@32616 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@32621 
+Channel: 0 Command:176@32640 
+Channel: 0 Command:176@32640 
+Channel: 0 Note on, B2 key=47 velocity: 51
+@32856 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@32880 
+Channel: 0 Note on, G3 key=55 velocity: 61
+@33096 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@33120 
+Channel: 0 Note on, A3 key=57 velocity: 68
+@33336 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@33360 
+Channel: 0 Note on, G3 key=55 velocity: 56
+@33576 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@33600 
+Channel: 0 Note on, B3 key=59 velocity: 70
+@33816 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@33840 
+Channel: 0 Note on, G3 key=55 velocity: 61
+@34056 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@34080 
+Channel: 0 Note on, A3 key=57 velocity: 68
+@34296 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@34320 
+Channel: 0 Note on, G3 key=55 velocity: 52
+@34536 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@34541 
+Channel: 0 Command:176@34560 
+Channel: 0 Command:176@34560 
+Channel: 0 Note on, A2 key=45 velocity: 55
+@34776 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@34800 
+Channel: 0 Note on, E3 key=52 velocity: 61
+@35016 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@35040 
+Channel: 0 Note on, G3 key=55 velocity: 68
+@35256 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@35280 
+Channel: 0 Note on, E3 key=52 velocity: 57
+@35736 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@35760 
+Channel: 0 Note on, E3 key=52 velocity: 65
+@35976 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@36000 
+Channel: 0 Note on, G3 key=55 velocity: 62
+@36216 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@36240 
+Channel: 0 Note on, A2 key=45 velocity: 54
+@36456 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@36461 
+Channel: 0 Command:176@36480 
+Channel: 0 Command:176@36480 
+Channel: 0 Note on, B2 key=47 velocity: 56
+@36696 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@36720 
+Channel: 0 Note on, F#3 key=54 velocity: 61
+@36936 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@36960 
+Channel: 0 Note on, A3 key=57 velocity: 69
+@37176 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@37200 
+Channel: 0 Note on, F#3 key=54 velocity: 57
+@37416 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@37440 
+Channel: 0 Note on, B3 key=59 velocity: 70
+@37656 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@37680 
+Channel: 0 Note on, F#3 key=54 velocity: 61
+@37896 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@37920 
+Channel: 0 Note on, A3 key=57 velocity: 69
+@38136 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@38160 
+Channel: 0 Note on, B2 key=47 velocity: 65
+@38376 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@38381 
+Channel: 0 Command:176@38400 
+@38400 
+Channel: 0 Command:176@38400 
+Channel: 0 Note on, D2 key=38 velocity: 57
+@38400 
+Channel: 0 Note on, D3 key=50 velocity: 57
+@38616 
+Channel: 0 Note off, D2 key=38 velocity: 64
+@38616 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@38640 
+Channel: 0 Note on, A2 key=45 velocity: 69
+@38856 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@38880 
+Channel: 0 Note on, F3 key=53 velocity: 76
+@39096 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@39120 
+Channel: 0 Note on, A3 key=57 velocity: 66
+@39336 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@39360 
+Channel: 0 Note on, C4 key=60 velocity: 75
+@39576 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@39600 
+Channel: 0 Note on, F3 key=53 velocity: 63
+@39816 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@39840 
+Channel: 0 Note on, C4 key=60 velocity: 73
+@40056 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@40080 
+Channel: 0 Note on, D3 key=50 velocity: 61
+@40296 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@40301 
+Channel: 0 Command:176@40320 
+Channel: 0 Note on, G2 key=43 velocity: 54
+@40320 
+Channel: 0 Note on, F3 key=53 velocity: 54
+@40320 
+Channel: 0 Command:176@40536 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@40536 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@40560 
+Channel: 0 Note on, D3 key=50 velocity: 70
+@40776 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@40800 
+Channel: 0 Note on, B3 key=59 velocity: 75
+@41016 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@41040 
+Channel: 0 Note on, D3 key=50 velocity: 66
+@41256 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@41280 
+Channel: 0 Note on, F3 key=53 velocity: 74
+@41496 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@41520 
+Channel: 0 Note on, D3 key=50 velocity: 69
+@41736 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@41760 
+Channel: 0 Note on, B3 key=59 velocity: 72
+@41976 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@42000 
+Channel: 0 Note on, D3 key=50 velocity: 64
+@42216 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@42221 
+Channel: 0 Command:176@42240 
+@42240 
+Channel: 0 Command:176@42240 
+Channel: 0 Note on, G2 key=43 velocity: 60
+@42240 
+Channel: 0 Note on, F3 key=53 velocity: 60
+@42456 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@42456 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@42480 
+Channel: 0 Note on, D#3 key=51 velocity: 71
+@42696 
+Channel: 0 Note off, D#3 key=51 velocity: 64
+@42720 
+Channel: 0 Note on, F3 key=53 velocity: 76
+@42936 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@42960 
+Channel: 0 Note on, A#3 key=58 velocity: 81
+@43176 
+Channel: 0 Note off, A#3 key=58 velocity: 64
+@43200 
+Channel: 0 Note on, F4 key=65 velocity: 78
+@43416 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@43440 
+Channel: 0 Note on, D#4 key=63 velocity: 75
+@43656 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@43680 
+Channel: 0 Note on, F4 key=65 velocity: 77
+@43896 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@43920 
+Channel: 0 Note on, G2 key=43 velocity: 69
+@44136 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@44141 
+Channel: 0 Command:176@44160 
+Channel: 0 Command:176@44160 
+Channel: 0 Note on, C2 key=36 velocity: 66
+@44160 
+Channel: 0 Note on, C3 key=48 velocity: 66
+@44376 
+Channel: 0 Note off, C2 key=36 velocity: 64
+@44376 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@44400 
+Channel: 0 Note on, G3 key=55 velocity: 78
+@44616 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@44640 
+Channel: 0 Note on, D4 key=62 velocity: 86
+@44856 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@44880 
+Channel: 0 Note on, G3 key=55 velocity: 75
+@45096 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@45120 
+Channel: 0 Note on, D#4 key=63 velocity: 86
+@45336 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@45360 
+Channel: 0 Note on, G3 key=55 velocity: 79
+@45576 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@45600 
+Channel: 0 Note on, C4 key=60 velocity: 85
+@45816 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@45840 
+Channel: 0 Note on, C3 key=48 velocity: 78
+@46056 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@46061 
+Channel: 0 Command:176@46080 
+@46080 
+Channel: 0 Command:176@46080 
+Channel: 0 Note on, A1 key=33 velocity: 70
+@46080 
+Channel: 0 Note on, A2 key=45 velocity: 70
+@46296 
+Channel: 0 Note off, A1 key=33 velocity: 64
+@46296 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@46320 
+Channel: 0 Note on, E3 key=52 velocity: 80
+@46536 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@46560 
+Channel: 0 Note on, B3 key=59 velocity: 85
+@46776 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@46800 
+Channel: 0 Note on, C4 key=60 velocity: 88
+@47016 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@47040 
+Channel: 0 Note on, E4 key=64 velocity: 93
+@47256 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@47280 
+Channel: 0 Note on, E3 key=52 velocity: 84
+@47496 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@47520 
+Channel: 0 Note on, B3 key=59 velocity: 90
+@47736 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@47760 
+Channel: 0 Note on, A2 key=45 velocity: 80
+@47976 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@47981 
+Channel: 0 Command:176@48000 
+Channel: 0 Command:176@48000 
+Channel: 0 Note on, D2 key=38 velocity: 71
+@48000 
+Channel: 0 Note on, D3 key=50 velocity: 71
+@48216 
+Channel: 0 Note off, D2 key=38 velocity: 64
+@48216 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@48240 
+Channel: 0 Note on, A3 key=57 velocity: 80
+@48456 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@48480 
+Channel: 0 Note on, C4 key=60 velocity: 87
+@48696 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@48720 
+Channel: 0 Note on, A3 key=57 velocity: 93
+@48936 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@48960 
+Channel: 0 Note on, C4 key=60 velocity: 95
+@49176 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@49200 
+Channel: 0 Note on, A3 key=57 velocity: 86
+@49416 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@49440 
+Channel: 0 Note on, D4 key=62 velocity: 97
+@49656 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@49680 
+Channel: 0 Note on, D3 key=50 velocity: 89
+@49896 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@49901 
+Channel: 0 Command:176@49920 
+@49920 
+Channel: 0 Command:176@49920 
+Channel: 0 Note on, B1 key=35 velocity: 80
+@49920 
+Channel: 0 Note on, B2 key=47 velocity: 80
+@50136 
+Channel: 0 Note off, B1 key=35 velocity: 64
+@50136 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@50160 
+Channel: 0 Note on, F3 key=53 velocity: 85
+@50376 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@50400 
+Channel: 0 Note on, A3 key=57 velocity: 92
+@50616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@50640 
+Channel: 0 Note on, F3 key=53 velocity: 84
+@50856 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@50880 
+Channel: 0 Note on, A3 key=57 velocity: 84
+@51096 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@51120 
+Channel: 0 Note on, F3 key=53 velocity: 78
+@51336 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@51360 
+Channel: 0 Note on, B3 key=59 velocity: 81
+@51576 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@51600 
+Channel: 0 Note on, B2 key=47 velocity: 72
+@51816 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@51821 
+Channel: 0 Command:176@51840 
+Channel: 0 Command:176@51840 
+Channel: 0 Note on, E2 key=40 velocity: 63
+@52056 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@52080 
+Channel: 0 Note on, D3 key=50 velocity: 66
+@52296 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@52320 
+Channel: 0 Note on, G#3 key=56 velocity: 69
+@52536 
+Channel: 0 Note off, G#3 key=56 velocity: 64
+@52560 
+Channel: 0 Note on, C4 key=60 velocity: 67
+@52776 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@52800 
+Channel: 0 Note on, E4 key=64 velocity: 67
+@53016 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@53040 
+Channel: 0 Note on, D4 key=62 velocity: 63
+@53256 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@53280 
+Channel: 0 Note on, E3 key=52 velocity: 62
+@53496 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@53520 
+Channel: 0 Note on, E2 key=40 velocity: 61
+@53736 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@53741 
+Channel: 0 Command:176@53760 
+Channel: 0 Command:176@53760 
+Channel: 0 Note on, G3 key=55 velocity: 64
+@53760 
+Channel: 0 Note on, A2 key=45 velocity: 64
+@53976 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@53976 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@54000 
+Channel: 0 Note on, E3 key=52 velocity: 74
+@54216 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@54240 
+Channel: 0 Note on, B3 key=59 velocity: 81
+@54456 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@54480 
+Channel: 0 Note on, C4 key=60 velocity: 71
+@54696 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@54720 
+Channel: 0 Note on, E4 key=64 velocity: 80
+@54936 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@54960 
+Channel: 0 Note on, E3 key=52 velocity: 74
+@55176 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@55200 
+Channel: 0 Note on, B3 key=59 velocity: 75
+@55416 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@55440 
+Channel: 0 Note on, A2 key=45 velocity: 68
+@55656 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@55661 
+Channel: 0 Command:176@55680 
+Channel: 0 Note on, D2 key=38 velocity: 75
+@55680 
+Channel: 0 Command:176@55896 
+Channel: 0 Note off, D2 key=38 velocity: 64
+@55920 
+Channel: 0 Note on, A2 key=45 velocity: 77
+@56136 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@56160 
+Channel: 0 Note on, F3 key=53 velocity: 80
+@56376 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@56400 
+Channel: 0 Note on, A3 key=57 velocity: 76
+@56616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@56640 
+Channel: 0 Note on, C4 key=60 velocity: 70
+@56856 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@56880 
+Channel: 0 Note on, A3 key=57 velocity: 64
+@57096 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@57120 
+Channel: 0 Note on, C4 key=60 velocity: 69
+@57336 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@57360 
+Channel: 0 Note on, D3 key=50 velocity: 61
+@57576 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@57581 
+Channel: 0 Command:176@57600 
+Channel: 0 Note on, G2 key=43 velocity: 74
+@57600 
+Channel: 0 Command:176@57816 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@57840 
+Channel: 0 Note on, D3 key=50 velocity: 76
+@58056 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@58080 
+Channel: 0 Note on, A3 key=57 velocity: 78
+@58296 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@58320 
+Channel: 0 Note on, C4 key=60 velocity: 80
+@58536 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@58560 
+Channel: 0 Note on, F4 key=65 velocity: 75
+@58776 
+Channel: 0 Note off, F4 key=65 velocity: 64
+@58800 
+Channel: 0 Note on, C4 key=60 velocity: 68
+@59016 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@59040 
+Channel: 0 Note on, F3 key=53 velocity: 73
+@59256 
+Channel: 0 Note off, F3 key=53 velocity: 64
+@59280 
+Channel: 0 Note on, G2 key=43 velocity: 66
+@59496 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@59501 
+Channel: 0 Command:176@59520 
+Channel: 0 Note on, C2 key=36 velocity: 75
+@59520 
+Channel: 0 Command:176@59736 
+Channel: 0 Note off, C2 key=36 velocity: 64
+@59760 
+Channel: 0 Note on, G2 key=43 velocity: 78
+@59976 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@60000 
+Channel: 0 Note on, E3 key=52 velocity: 81
+@60216 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@60240 
+Channel: 0 Note on, G3 key=55 velocity: 84
+@60456 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@60480 
+Channel: 0 Note on, C4 key=60 velocity: 84
+@60696 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@60720 
+Channel: 0 Note on, G3 key=55 velocity: 78
+@61176 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@61200 
+Channel: 0 Note on, C2 key=36 velocity: 67
+@61416 
+Channel: 0 Note off, C2 key=36 velocity: 64
+@61421 
+Channel: 0 Command:176@61440 
+@61440 
+Channel: 0 Command:176@61440 
+Channel: 0 Note on, C#3 key=49 velocity: 68
+@61656 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@61680 
+Channel: 0 Note on, A3 key=57 velocity: 72
+@61896 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@61920 
+Channel: 0 Note on, E4 key=64 velocity: 77
+@62136 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@62160 
+Channel: 0 Note on, A3 key=57 velocity: 68
+@62376 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@62381 
+Channel: 0 Command:176@62400 
+Channel: 0 Command:176@62400 
+Channel: 0 Note on, C3 key=48 velocity: 66
+@62616 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@62640 
+Channel: 0 Note on, A3 key=57 velocity: 71
+@62856 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@62880 
+Channel: 0 Note on, D#4 key=63 velocity: 75
+@63072 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@63120 
+Channel: 0 Note on, A3 key=57 velocity: 65
+@63336 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@63341 
+Channel: 0 Command:176@63360 
+Channel: 0 Command:176@63360 
+Channel: 0 Note on, B2 key=47 velocity: 66
+@63576 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@63600 
+Channel: 0 Note on, G3 key=55 velocity: 70
+@63816 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@63840 
+Channel: 0 Note on, B3 key=59 velocity: 75
+@64056 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@64080 
+Channel: 0 Note on, G3 key=55 velocity: 65
+@64296 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@64301 
+Channel: 0 Command:176@64320 
+Channel: 0 Command:176@64320 
+Channel: 0 Note on, A#2 key=46 velocity: 65
+@64536 
+Channel: 0 Note off, A#2 key=46 velocity: 64
+@64560 
+Channel: 0 Note on, G3 key=55 velocity: 70
+@64776 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@64800 
+Channel: 0 Note on, C#4 key=61 velocity: 74
+@65016 
+Channel: 0 Note off, C#4 key=61 velocity: 64
+@65040 
+Channel: 0 Note on, G3 key=55 velocity: 62
+@65256 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@65261 
+Channel: 0 Command:176@65280 
+Channel: 0 Command:176@65280 
+Channel: 0 Note on, A2 key=45 velocity: 56
+@65496 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@65520 
+Channel: 0 Note on, E3 key=52 velocity: 59
+@65736 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@65760 
+Channel: 0 Note on, B3 key=59 velocity: 62
+@65976 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@66000 
+Channel: 0 Note on, C4 key=60 velocity: 66
+@66456 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@66480 
+Channel: 0 Note on, E3 key=52 velocity: 63
+@66696 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@66720 
+Channel: 0 Note on, B3 key=59 velocity: 59
+@67152 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@67181 
+Channel: 0 Command:176@67200 
+Channel: 0 Command:176@67200 
+Channel: 0 Note on, B2 key=47 velocity: 54
+@67416 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@67440 
+Channel: 0 Note on, F#3 key=54 velocity: 52
+@67656 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@67680 
+Channel: 0 Note on, A3 key=57 velocity: 48
+@67896 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@67920 
+Channel: 0 Note on, F#3 key=54 velocity: 43
+@68136 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@68142 
+Channel: 0 Command:176@68160 
+Channel: 0 Note on, A3 key=57 velocity: 39
+@68160 
+Channel: 0 Command:176@68928 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@69101 
+Channel: 0 Command:176@69120 
+Channel: 0 Command:176@69120 
+Channel: 0 Note on, E3 key=52 velocity: 58
+@69336 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@69360 
+Channel: 0 Note on, B3 key=59 velocity: 61
+@69576 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@69600 
+Channel: 0 Note on, E4 key=64 velocity: 62
+@69816 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@69840 
+Channel: 0 Note on, B3 key=59 velocity: 60
+@70056 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@70080 
+Channel: 0 Note on, E4 key=64 velocity: 57
+@70296 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@70320 
+Channel: 0 Note on, F#4 key=66 velocity: 68
+@70536 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@70560 
+Channel: 0 Note on, G4 key=67 velocity: 72
+@70776 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@70800 
+Channel: 0 Note on, E3 key=52 velocity: 62
+@71016 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@71021 
+Channel: 0 Command:176@71040 
+Channel: 0 Note on, A2 key=45 velocity: 65
+@71040 
+Channel: 0 Command:176@71256 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@71280 
+Channel: 0 Note on, E3 key=52 velocity: 69
+@71496 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@71520 
+Channel: 0 Note on, B3 key=59 velocity: 71
+@71736 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@71760 
+Channel: 0 Note on, C4 key=60 velocity: 75
+@72432 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@72480 
+Channel: 0 Note on, A3 key=57 velocity: 69
+@72696 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@72720 
+Channel: 0 Note on, A2 key=45 velocity: 66
+@72936 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@72941 
+Channel: 0 Command:176@72960 
+Channel: 0 Note on, D2 key=38 velocity: 69
+@72960 
+Channel: 0 Command:176@73176 
+Channel: 0 Note off, D2 key=38 velocity: 64
+@73200 
+Channel: 0 Note on, A2 key=45 velocity: 77
+@73656 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@73680 
+Channel: 0 Note on, A3 key=57 velocity: 81
+@73896 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@73920 
+Channel: 0 Note on, C4 key=60 velocity: 76
+@74136 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@74160 
+Channel: 0 Note on, A3 key=57 velocity: 69
+@74616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@74640 
+Channel: 0 Note on, D3 key=50 velocity: 68
+@74856 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@74861 
+Channel: 0 Command:176@74880 
+Channel: 0 Command:176@74880 
+Channel: 0 Note on, G2 key=43 velocity: 76
+@75096 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@75120 
+Channel: 0 Note on, D3 key=50 velocity: 79
+@75336 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@75360 
+Channel: 0 Note on, A3 key=57 velocity: 83
+@75576 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@75600 
+Channel: 0 Note on, B3 key=59 velocity: 87
+@75816 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@75840 
+Channel: 0 Note on, D4 key=62 velocity: 82
+@76056 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@76080 
+Channel: 0 Note on, B3 key=59 velocity: 84
+@76296 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@76320 
+Channel: 0 Note on, G3 key=55 velocity: 87
+@76536 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@76560 
+Channel: 0 Note on, G2 key=43 velocity: 89
+@76776 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@76781 
+Channel: 0 Command:176@76800 
+Channel: 0 Command:176@76800 
+Channel: 0 Note on, C#2 key=37 velocity: 77
+@76800 
+Channel: 0 Note on, C#3 key=49 velocity: 77
+@77016 
+Channel: 0 Note off, C#2 key=37 velocity: 64
+@77016 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@77040 
+Channel: 0 Note on, A2 key=45 velocity: 87
+@77256 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@77280 
+Channel: 0 Note on, C#3 key=49 velocity: 93
+@77496 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@77520 
+Channel: 0 Note on, C#2 key=37 velocity: 83
+@77736 
+Channel: 0 Note off, C#2 key=37 velocity: 64
+@77742 
+Channel: 0 Command:176@77760 
+Channel: 0 Note on, C2 key=36 velocity: 69
+@77760 
+Channel: 0 Note on, C3 key=48 velocity: 69
+@77760 
+Channel: 0 Command:176@77976 
+Channel: 0 Note off, C2 key=36 velocity: 64
+@77976 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@78000 
+Channel: 0 Note on, A3 key=57 velocity: 90
+@78216 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@78240 
+Channel: 0 Note on, C4 key=60 velocity: 96
+@78456 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@78480 
+Channel: 0 Note on, A3 key=57 velocity: 86
+@78696 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@78701 
+Channel: 0 Command:176@78720 
+Channel: 0 Note on, B3 key=59 velocity: 67
+@78720 
+Channel: 0 Note on, B2 key=47 velocity: 67
+@78720 
+Channel: 0 Command:176@78936 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@78936 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@78960 
+Channel: 0 Note on, G3 key=55 velocity: 84
+@79176 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@79200 
+Channel: 0 Note on, D4 key=62 velocity: 92
+@79416 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@79440 
+Channel: 0 Note on, G3 key=55 velocity: 83
+@79645 
+Channel: 0 Command:176@79656 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@79680 
+Channel: 0 Note on, A#3 key=58 velocity: 61
+@79680 
+Channel: 0 Note on, A#2 key=46 velocity: 61
+@79680 
+Channel: 0 Command:176@79896 
+Channel: 0 Note off, A#3 key=58 velocity: 64
+@79896 
+Channel: 0 Note off, A#2 key=46 velocity: 64
+@79920 
+Channel: 0 Note on, G3 key=55 velocity: 76
+@80136 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@80160 
+Channel: 0 Note on, C#4 key=61 velocity: 83
+@80376 
+Channel: 0 Note off, C#4 key=61 velocity: 64
+@80400 
+Channel: 0 Note on, G3 key=55 velocity: 76
+@80616 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@80621 
+Channel: 0 Command:176@80640 
+Channel: 0 Note on, G3 key=55 velocity: 60
+@80640 
+Channel: 0 Note on, A2 key=45 velocity: 60
+@80640 
+Channel: 0 Command:176@80856 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@80856 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@80880 
+Channel: 0 Note on, E3 key=52 velocity: 75
+@81096 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@81120 
+Channel: 0 Note on, B3 key=59 velocity: 84
+@81336 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@81360 
+Channel: 0 Note on, E3 key=52 velocity: 76
+@81576 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@81600 
+Channel: 0 Note on, C4 key=60 velocity: 83
+@81816 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@81840 
+Channel: 0 Note on, E3 key=52 velocity: 74
+@82056 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@82080 
+Channel: 0 Note on, B3 key=59 velocity: 79
+@82296 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@82320 
+Channel: 0 Note on, A2 key=45 velocity: 73
+@82536 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@82541 
+Channel: 0 Command:176@82560 
+Channel: 0 Command:176@82560 
+Channel: 0 Note on, B2 key=47 velocity: 83
+@82776 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@82800 
+Channel: 0 Note on, F#3 key=54 velocity: 89
+@83016 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@83040 
+Channel: 0 Note on, A3 key=57 velocity: 94
+@83256 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@83280 
+Channel: 0 Note on, F#3 key=54 velocity: 84
+@83496 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@83520 
+Channel: 0 Note on, A3 key=57 velocity: 95
+@83736 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@83760 
+Channel: 0 Note on, F#3 key=54 velocity: 89
+@83976 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@84000 
+Channel: 0 Note on, B3 key=59 velocity: 94
+@84216 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@84240 
+Channel: 0 Note on, B2 key=47 velocity: 95
+@84456 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@84461 
+Channel: 0 Command:176@84480 
+Channel: 0 Command:176@84480 
+Channel: 0 Note on, E2 key=40 velocity: 76
+@84696 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@84720 
+Channel: 0 Note on, B2 key=47 velocity: 79
+@84936 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@84960 
+Channel: 0 Note on, G3 key=55 velocity: 83
+@85176 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@85200 
+Channel: 0 Note on, B3 key=59 velocity: 76
+@85416 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@85440 
+Channel: 0 Note on, E4 key=64 velocity: 80
+@85656 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@85680 
+Channel: 0 Note on, B3 key=59 velocity: 74
+@85896 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@85920 
+Channel: 0 Note on, E3 key=52 velocity: 78
+@86136 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@86160 
+Channel: 0 Note on, E2 key=40 velocity: 72
+@86376 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@86381 
+Channel: 0 Command:176@86400 
+Channel: 0 Command:176@86400 
+Channel: 0 Note on, A2 key=45 velocity: 72
+@86616 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@86640 
+Channel: 0 Note on, E3 key=52 velocity: 77
+@86856 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@86880 
+Channel: 0 Note on, C4 key=60 velocity: 80
+@87096 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@87120 
+Channel: 0 Note on, E4 key=64 velocity: 75
+@87336 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@87360 
+Channel: 0 Note on, G4 key=67 velocity: 74
+@87576 
+Channel: 0 Note off, G4 key=67 velocity: 64
+@87600 
+Channel: 0 Note on, E4 key=64 velocity: 68
+@87816 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@87840 
+Channel: 0 Note on, A3 key=57 velocity: 69
+@88056 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@88080 
+Channel: 0 Note on, A2 key=45 velocity: 63
+@88296 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@88301 
+Channel: 0 Command:176@88320 
+Channel: 0 Command:176@88320 
+Channel: 0 Note on, D2 key=38 velocity: 70
+@88536 
+Channel: 0 Note off, D2 key=38 velocity: 64
+@88560 
+Channel: 0 Note on, A2 key=45 velocity: 77
+@88776 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@88800 
+Channel: 0 Note on, C4 key=60 velocity: 81
+@89016 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@89040 
+Channel: 0 Note on, A3 key=57 velocity: 74
+@89256 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@89280 
+Channel: 0 Note on, E4 key=64 velocity: 75
+@89280 
+Channel: 0 Note on, C4 key=60 velocity: 75
+@89496 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@89496 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@89520 
+Channel: 0 Note on, A3 key=57 velocity: 71
+@89736 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@89760 
+Channel: 0 Note on, F#4 key=66 velocity: 76
+@89760 
+Channel: 0 Note on, C4 key=60 velocity: 76
+@89976 
+Channel: 0 Note off, F#4 key=66 velocity: 64
+@89976 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@90000 
+Channel: 0 Note on, D3 key=50 velocity: 70
+@90216 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@90221 
+Channel: 0 Command:176@90240 
+Channel: 0 Command:176@90240 
+Channel: 0 Note on, G2 key=43 velocity: 77
+@90456 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@90480 
+Channel: 0 Note on, D3 key=50 velocity: 75
+@90696 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@90720 
+Channel: 0 Note on, A3 key=57 velocity: 73
+@90936 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@90960 
+Channel: 0 Note on, B3 key=59 velocity: 71
+@91176 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@91200 
+Channel: 0 Note on, D4 key=62 velocity: 69
+@91416 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@91440 
+Channel: 0 Note on, D3 key=50 velocity: 65
+@91656 
+Channel: 0 Note off, D3 key=50 velocity: 64
+@91680 
+Channel: 0 Note on, G3 key=55 velocity: 74
+@91896 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@91920 
+Channel: 0 Note on, G2 key=43 velocity: 67
+@92136 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@92141 
+Channel: 0 Command:176@92160 
+Channel: 0 Command:176@92160 
+Channel: 0 Note on, C#3 key=49 velocity: 67
+@92376 
+Channel: 0 Note off, C#3 key=49 velocity: 64
+@92400 
+Channel: 0 Note on, A3 key=57 velocity: 75
+@92616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@92640 
+Channel: 0 Note on, E4 key=64 velocity: 78
+@92856 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@92880 
+Channel: 0 Note on, A3 key=57 velocity: 74
+@93096 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@93101 
+Channel: 0 Command:176@93120 
+Channel: 0 Command:176@93120 
+Channel: 0 Note on, C3 key=48 velocity: 70
+@93336 
+Channel: 0 Note off, C3 key=48 velocity: 64
+@93360 
+Channel: 0 Note on, A3 key=57 velocity: 74
+@93576 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@93600 
+Channel: 0 Note on, D#4 key=63 velocity: 80
+@93816 
+Channel: 0 Note off, D#4 key=63 velocity: 64
+@93840 
+Channel: 0 Note on, A3 key=57 velocity: 71
+@94056 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@94061 
+Channel: 0 Command:176@94080 
+Channel: 0 Command:176@94080 
+Channel: 0 Note on, B2 key=47 velocity: 66
+@94296 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@94320 
+Channel: 0 Note on, G3 key=55 velocity: 71
+@94536 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@94560 
+Channel: 0 Note on, B3 key=59 velocity: 76
+@94776 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@94800 
+Channel: 0 Note on, B2 key=47 velocity: 69
+@95016 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@95030 
+Channel: 0 Command:176@95040 
+Channel: 0 Command:176@95040 
+Channel: 0 Note on, A#2 key=46 velocity: 70
+@95256 
+Channel: 0 Note off, A#2 key=46 velocity: 64
+@95280 
+Channel: 0 Note on, G3 key=55 velocity: 66
+@95496 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@95520 
+Channel: 0 Note on, C#4 key=61 velocity: 63
+@95952 
+Channel: 0 Note off, C#4 key=61 velocity: 64
+@95981 
+Channel: 0 Command:176@96000 
+Channel: 0 Command:176@96000 
+Channel: 0 Note on, A2 key=45 velocity: 68
+@96216 
+Channel: 0 Note off, A2 key=45 velocity: 64
+@96240 
+Channel: 0 Note on, E3 key=52 velocity: 67
+@96456 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@96480 
+Channel: 0 Note on, B3 key=59 velocity: 65
+@96696 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@96720 
+Channel: 0 Note on, C4 key=60 velocity: 64
+@96936 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@96960 
+Channel: 0 Note on, E4 key=64 velocity: 62
+@97824 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@97901 
+Channel: 0 Command:176@97920 
+Channel: 0 Command:176@97920 
+Channel: 0 Note on, B2 key=47 velocity: 63
+@98136 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@98160 
+Channel: 0 Note on, F#3 key=54 velocity: 61
+@98376 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@98400 
+Channel: 0 Note on, A3 key=57 velocity: 59
+@98616 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@98640 
+Channel: 0 Note on, F#3 key=54 velocity: 56
+@98856 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@98880 
+Channel: 0 Note on, A3 key=57 velocity: 50
+@99744 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@99811 
+Channel: 0 Command:176@99830 
+Channel: 0 Command:176@99840 
+Channel: 0 Note on, C2 key=36 velocity: 43
+@100056 
+Channel: 0 Note off, C2 key=36 velocity: 64
+@100080 
+Channel: 0 Note on, G2 key=43 velocity: 46
+@100296 
+Channel: 0 Note off, G2 key=43 velocity: 64
+@100320 
+Channel: 0 Note on, E3 key=52 velocity: 50
+@100536 
+Channel: 0 Note off, E3 key=52 velocity: 64
+@100560 
+Channel: 0 Note on, G3 key=55 velocity: 54
+@100776 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@100800 
+Channel: 0 Note on, C4 key=60 velocity: 52
+@101016 
+Channel: 0 Note off, C4 key=60 velocity: 64
+@101040 
+Channel: 0 Note on, G3 key=55 velocity: 47
+@101256 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@101280 
+Channel: 0 Note on, E4 key=64 velocity: 42
+@101712 
+Channel: 0 Note off, E4 key=64 velocity: 64
+@101741 
+Channel: 0 Command:176@101760 
+Channel: 0 Command:176@101760 
+Channel: 0 Note on, B2 key=47 velocity: 47
+@101976 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@102000 
+Channel: 0 Note on, F#3 key=54 velocity: 51
+@103536 
+Channel: 0 Note off, F#3 key=54 velocity: 64
+@103661 
+Channel: 0 Command:176@103680 
+Channel: 0 Command:176@103680 
+Channel: 0 Note on, E2 key=40 velocity: 53
+@103788 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@103800 
+Channel: 0 Note on, B2 key=47 velocity: 52
+@103908 
+Channel: 0 Note off, B2 key=47 velocity: 64
+@103920 
+Channel: 0 Note on, G3 key=55 velocity: 49
+@104028 
+Channel: 0 Note off, G3 key=55 velocity: 64
+@104040 
+Channel: 0 Note on, A3 key=57 velocity: 47
+@104268 
+Channel: 0 Note off, A3 key=57 velocity: 64
+@104280 
+Channel: 0 Note on, D4 key=62 velocity: 43
+@104388 
+Channel: 0 Note off, D4 key=62 velocity: 64
+@104400 
+Channel: 0 Note on, B3 key=59 velocity: 42
+@105504 
+Channel: 0 Note off, B3 key=59 velocity: 64
+@105581 
+Channel: 0 Command:176@105600 
+Channel: 0 Command:176@105600 
+Channel: 0 Note on, E2 key=40 velocity: 38
+@107328 
+Channel: 0 Note off, E2 key=40 velocity: 64
+@107519 
