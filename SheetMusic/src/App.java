@@ -1,18 +1,26 @@
 import java.io.File;
 import java.io.FileWriter;
-//import java.io.IOException;
+import java.io.IOException;
 
 import javax.sound.midi.*;
 
 public class App {
+    
     public static final int noteOn = 0x90;
     public static final int noteOff = 0x80;
     public static final String[] noteNames = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
 
+
     public static void main(String[] args) throws Exception {
         Sequence sequence = MidiSystem.getSequence(new File("gav.mid"));
-        FileWriter MyWriter = new FileWriter("midi.txt");
 
+        process(sequence);
+        
+       
+    }
+    public static void process(Sequence sequence) throws IOException{
+        FileWriter MyWriter = new FileWriter("midi.txt");
+        
         int trackNumber = 0;
         for (Track track :  sequence.getTracks()) {
             trackNumber++;
@@ -60,11 +68,11 @@ public class App {
             
            // System.out.println();
         }
+
+
+
+
         MyWriter.close();
-    }
 
-
-    public static void process(File yurt){
-        
     }
 }
