@@ -9,7 +9,6 @@ public class timeSign implements iSheet{
 
     @Override
     public String toMusicXML() {
-        // TODO Auto-generated method stub
         return "<time>\n<beats>"+ts[0]+"</beats>\n  <beat-type>"+ts[1]+"</beat-type>\n</time>";
     }
 }
