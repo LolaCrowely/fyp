@@ -6,7 +6,7 @@ public class keySign implements iSheet{
     int sign = 0;
     String minmaj = new String();
 
-    public void keycon(String key, boolean majmin){
+    public void kcon(String key, boolean majmin){
 
         this.majmin = majmin;
         if (majmin){
@@ -149,7 +149,7 @@ public class keySign implements iSheet{
 
     @Override
     public String toMusicXML() {
-        return "<key>\n<fifths>"+sign+"</fifths>\n<mode>"+minmaj+"</mode>\n</key>";
+        return "<key>\n<fifths>"+sign+"</fifths>\n<mode>"+minmaj+"</mode>\n</key>\n";
     }
     
 }
