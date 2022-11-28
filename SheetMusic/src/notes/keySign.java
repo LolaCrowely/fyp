@@ -6,7 +6,16 @@ public class keySign implements iSheet{
     int sign = 0;
     String minmaj = new String();
 
-    public void keycon(String key){
+    public void keycon(String key, boolean majmin){
+
+        this.majmin = majmin;
+        if (majmin){
+            minmaj = "major";
+        }
+        else{
+            minmaj = "minor";
+        }
+
         this.key = key;
         
 
@@ -136,15 +145,6 @@ public class keySign implements iSheet{
             
         }
 
-    }
-
-    public void majminCon(boolean majmin){
-        this.majmin = majmin;
-        if (majmin)
-            minmaj = "major";
-
-        else
-            minmaj = "minor";
     }
 
     @Override

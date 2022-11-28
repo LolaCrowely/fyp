@@ -2,9 +2,9 @@ package notes;
 //this is for the object notes
 
 
-public class header implements iSheet{
+public class attributes implements iSheet{
     
-    //make the attributes
+    
    
     
 
