@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-
+import java.util.*;
 import javax.sound.midi.*;
 
 public class App {
@@ -12,9 +12,24 @@ public class App {
 
 
     public static void main(String[] args) throws Exception {
+        Scanner sc = new Scanner(System.in);
+        int count = 0;
         Sequence sequence = MidiSystem.getSequence(new File("gav.mid"));
+        System.out.println("Hello are you playing a piano song now or just imputting a file?\n1: Playing a Song\n2:imputting a file");
+        count = sc.nextInt();
 
-        process(sequence);
+        switch (count) {
+            case 1:
+            break;
+            case 2:
+                process(sequence);
+            break;
+            default:
+                System.out.println("That was not an option, goodbye!");
+            break;
+        }
+
+
         
        
     }
