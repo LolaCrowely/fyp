@@ -31,7 +31,7 @@ public class App {
 
 
         
-       
+       sc.close();
     }
     public static void process(Sequence sequence) throws IOException{
         FileWriter MyWriter = new FileWriter("midi.txt");
