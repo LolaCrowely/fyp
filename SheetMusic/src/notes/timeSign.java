@@ -4,7 +4,8 @@ public class timeSign implements iSheet{
     int[] ts = new int[2];
 
     public void tscon(int[] ts) {
-        this.ts = ts;
+        this.ts[0] = ts[0];
+        this.ts[1] = ts[1];
     }
 
     @Override
