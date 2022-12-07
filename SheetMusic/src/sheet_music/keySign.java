@@ -1,4 +1,4 @@
-package notes;
+package sheet_music;
 
 public class keySign implements iSheet{
     String key = new String();

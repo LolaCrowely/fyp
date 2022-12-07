@@ -1,4 +1,4 @@
-package notes;
+package sheet_music;
 
 public class timeSign implements iSheet{
     int[] ts = new int[2];
