@@ -25,7 +25,6 @@ public class note implements iSheet{
 
     @Override
     public String toMusicXML() {
-        // TODO Auto-generated method stub
         return "<note deafault-x=\""+default_x+"\">\n<pitch>\n<step>"+step+"</step>\n<octave>"+octave+"</octave>\n</pitch>\n<duration>"+duration+"</duration>\n<type>"+type+"</type>\n<stem>"+stem+"</stem>\n<staff>"+staff+"</staff>\n</note>\n";
     }
 }
