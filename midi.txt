@@ -1,150 +1,295 @@
 Track 1: size = 142
 @0 
+Meta message: 3
 @0 
+Meta message: 88
 @0 
+Meta message: 81
 @480 
+Meta message: 81
 @960 
+Meta message: 81
 @1440 
+Meta message: 81
 @1690 
+Meta message: 81
 @1920 
+Meta message: 81
 @3686 
+Meta message: 81
 @3830 
+Meta message: 81
 @3840 
+Meta message: 81
 @5760 
+Meta message: 81
 @7670 
+Meta message: 81
 @7680 
+Meta message: 81
 @9600 
+Meta message: 81
 @9830 
+Meta message: 81
 @10550 
+Meta message: 81
 @10781 
+Meta message: 81
 @11501 
+Meta message: 81
 @11530 
+Meta message: 81
 @12970 
+Meta message: 81
 @13171 
+Meta message: 81
 @13440 
+Meta message: 81
 @13930 
+Meta message: 81
 @14400 
+Meta message: 81
 @15331 
+Meta message: 81
 @15341 
+Meta message: 81
 @15360 
+Meta message: 81
 @15514 
+Meta message: 81
 @15830 
+Meta message: 81
 @17270 
+Meta message: 81
 @17280 
+Meta message: 81
 @17491 
+Meta message: 81
 @19123 
+Meta message: 81
 @19200 
+Meta message: 81
 @19229 
+Meta message: 81
 @21110 
+Meta message: 81
 @22819 
+Meta message: 81
 @23040 
+Meta message: 81
 @23280 
+Meta message: 81
 @24950 
+Meta message: 81
 @25123 
+Meta message: 81
 @25910 
+Meta message: 81
 @26064 
+Meta message: 81
 @26861 
+Meta message: 81
 @26880 
+Meta message: 81
 @27014 
+Meta message: 81
 @28320 
+Meta message: 81
 @28598 
+Meta message: 81
 @30528 
+Meta message: 81
 @30720 
+Meta message: 81
 @32640 
+Meta message: 81
 @35520 
+Meta message: 81
 @36480 
+Meta message: 81
 @36960 
+Meta message: 81
 @37930 
+Meta message: 81
 @38400 
+Meta message: 81
 @41933 
+Meta message: 81
 @42221 
+Meta message: 81
 @42240 
+Meta message: 81
 @44160 
+Meta message: 81
 @48000 
+Meta message: 81
 @49526 
+Meta message: 81
 @49901 
+Meta message: 81
 @49910 
+Meta message: 81
 @49920 
+Meta message: 81
 @51178 
+Meta message: 81
 @51206 
+Meta message: 81
 @51581 
+Meta message: 81
 @51840 
+Meta message: 81
 @53088 
+Meta message: 81
 @53290 
+Meta message: 81
 @53760 
+Meta message: 81
 @54000 
+Meta message: 81
 @55670 
+Meta message: 81
 @55680 
+Meta message: 81
 @57610 
+Meta message: 81
 @57840 
+Meta message: 81
 @59520 
+Meta message: 81
 @61440 
+Meta message: 81
 @61670 
+Meta message: 81
 @63360 
+Meta message: 81
 @63542 
+Meta message: 81
 @64320 
+Meta message: 81
 @64474 
+Meta message: 81
 @64723 
+Meta message: 81
 @65270 
+Meta message: 81
 @65280 
+Meta message: 81
 @65405 
+Meta message: 81
 @66883 
+Meta message: 81
 @67200 
+Meta message: 81
 @68141 
+Meta message: 81
 @68803 
+Meta message: 81
 @69091 
+Meta message: 81
 @69120 
+Meta message: 81
 @72970 
+Meta message: 81
 @73190 
+Meta message: 81
 @74880 
+Meta message: 81
 @76800 
+Meta message: 81
 @78720 
+Meta message: 81
 @80640 
+Meta message: 81
 @82080 
+Meta message: 81
 @82560 
+Meta message: 81
 @83990 
+Meta message: 81
 @84480 
+Meta message: 81
 @88320 
+Meta message: 81
 @88560 
+Meta message: 81
 @92160 
+Meta message: 81
 @94080 
+Meta message: 81
 @96000 
+Meta message: 81
 @96960 
+Meta message: 81
 @97430 
+Meta message: 81
 @97910 
+Meta message: 81
 @97920 
+Meta message: 81
 @98592 
+Meta message: 81
 @98822 
+Meta message: 81
 @98870 
+Meta message: 81
 @99120 
+Meta message: 81
 @99610 
+Meta message: 81
 @99734 
+Meta message: 81
 @99754 
+Meta message: 81
 @99811 
+Meta message: 81
 @99840 
+Meta message: 81
 @100790 
+Meta message: 81
 @101270 
+Meta message: 81
 @101501 
+Meta message: 81
 @101674 
+Meta message: 81
 @101722 
+Meta message: 81
 @101760 
+Meta message: 81
 @102144 
+Meta message: 81
 @102394 
+Meta message: 81
 @102672 
+Meta message: 81
 @103354 
+Meta message: 81
 @103642 
+Meta message: 81
 @103680 
+Meta message: 81
 @104621 
+Meta message: 81
 @104765 
+Meta message: 81
 @104986 
+Meta message: 81
 @105312 
+Meta message: 81
 @105494 
+Meta message: 81
 @105600 
+Meta message: 81
 @105600 
+Meta message: 47
 Track 2: size = 1046
 @0 
+Meta message: 3
 @0 
+Meta message: 4
 @0 
+Meta message: 89
 @0 
 Channel: 0 Command:192@0 
 Channel: 0 Command:176@0 
@@ -809,6 +954,7 @@ Channel: 0 Note on, D5 key=74 velocity: 96
 @38400 
 Channel: 0 Note off, D5 key=74 velocity: 64
 @38400 
+Meta message: 89
 @38400 
 Channel: 0 Note on, E5 key=76 velocity: 75
 @38400 
@@ -882,6 +1028,7 @@ Channel: 0 Note on, A5 key=81 velocity: 88
 @42240 
 Channel: 0 Note off, A5 key=81 velocity: 64
 @42240 
+Meta message: 89
 @42240 
 Channel: 0 Note on, A#5 key=82 velocity: 82
 @42240 
@@ -971,6 +1118,7 @@ Channel: 0 Note on, C6 key=84 velocity: 95
 @46080 
 Channel: 0 Note off, C6 key=84 velocity: 64
 @46080 
+Meta message: 89
 @46080 
 Channel: 0 Note on, D6 key=86 velocity: 92
 @46080 
@@ -1064,6 +1212,7 @@ Channel: 0 Note off, E6 key=88 velocity: 64
 @49920 
 Channel: 0 Note off, E5 key=76 velocity: 64
 @49920 
+Meta message: 89
 @49920 
 Channel: 0 Note on, F6 key=89 velocity: 107
 @49920 
@@ -1321,6 +1470,7 @@ Channel: 0 Note on, E4 key=64 velocity: 71
 @61392 
 Channel: 0 Note off, E4 key=64 velocity: 64
 @61440 
+Meta message: 89
 @61440 
 Channel: 0 Note on, B5 key=83 velocity: 83
 @61440 
@@ -2222,10 +2372,14 @@ Channel: 0 Note off, D6 key=86 velocity: 64
 @107328 
 Channel: 0 Note off, D5 key=74 velocity: 64
 @107519 
+Meta message: 47
 Track 3: size = 965
 @0 
+Meta message: 3
 @0 
+Meta message: 4
 @0 
+Meta message: 89
 @0 
 Channel: 0 Command:192@0 
 Channel: 0 Command:176@0 
@@ -2834,6 +2988,7 @@ Channel: 0 Note on, B2 key=47 velocity: 65
 Channel: 0 Note off, B2 key=47 velocity: 64
 @38381 
 Channel: 0 Command:176@38400 
+Meta message: 89
 @38400 
 Channel: 0 Command:176@38400 
 Channel: 0 Note on, D2 key=38 velocity: 57
@@ -2911,6 +3066,7 @@ Channel: 0 Note on, D3 key=50 velocity: 64
 Channel: 0 Note off, D3 key=50 velocity: 64
 @42221 
 Channel: 0 Command:176@42240 
+Meta message: 89
 @42240 
 Channel: 0 Command:176@42240 
 Channel: 0 Note on, G2 key=43 velocity: 60
@@ -2988,6 +3144,7 @@ Channel: 0 Note on, C3 key=48 velocity: 78
 Channel: 0 Note off, C3 key=48 velocity: 64
 @46061 
 Channel: 0 Command:176@46080 
+Meta message: 89
 @46080 
 Channel: 0 Command:176@46080 
 Channel: 0 Note on, A1 key=33 velocity: 70
@@ -3065,6 +3222,7 @@ Channel: 0 Note on, D3 key=50 velocity: 89
 Channel: 0 Note off, D3 key=50 velocity: 64
 @49901 
 Channel: 0 Command:176@49920 
+Meta message: 89
 @49920 
 Channel: 0 Command:176@49920 
 Channel: 0 Note on, B1 key=35 velocity: 80
@@ -3274,6 +3432,7 @@ Channel: 0 Note on, C2 key=36 velocity: 67
 Channel: 0 Note off, C2 key=36 velocity: 64
 @61421 
 Channel: 0 Command:176@61440 
+Meta message: 89
 @61440 
 Channel: 0 Command:176@61440 
 Channel: 0 Note on, C#3 key=49 velocity: 68
@@ -4004,3 +4163,4 @@ Channel: 0 Note on, E2 key=40 velocity: 38
 @107328 
 Channel: 0 Note off, E2 key=40 velocity: 64
 @107519 
+Meta message: 47

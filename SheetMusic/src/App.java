@@ -15,7 +15,7 @@ public class App {
         Scanner sc = new Scanner(System.in);
         int count = 0;
         Sequence sequence = MidiSystem.getSequence(new File("gav.mid"));
-        System.out.println("Hello are you playing a piano song now or just imputting a file?\n1: Playing a Song\n2:imputting a file");
+        System.out.println("Hello are you playing a piano song now or just imputting a file?\n1: Playing a Song\n2:Imputting a file");
         count = sc.nextInt();
 
         switch (count) {
@@ -69,11 +69,23 @@ public class App {
                 } 
                 else if (message instanceof MetaMessage){
                     MetaMessage mm = (MetaMessage) message;
+                    byte[] data = mm.getData();
+                    int tempo = 0;
                     System.out.println("Track no " + trackNumber);
-                    System.out.println("Data: "+mm.getData());
-                    System.out.println("Type: "+mm.getType() +"\n");
+                    System.out.print("Data: "+ data);
+                    for (int j = 0; j < data.length; j++){
+                        System.out.print(data[j]+" ");
+                    }
+                    System.out.println("\nType: "+mm.getType());
+                    System.out.println(mm);
+                    if (mm.getType() == 81 && data.length == 3){
+                        tempo = getTempo(mm, data);
+                        System.out.println("Tempo: "+ tempo);
+                    }
                     //check to see if this if hex or deciaml
-
+                    //it's decimal
+                    System.out.println("");
+                    MyWriter.write("Meta message: " + mm.getType() + "\n");
                 }
                 
                 else {
@@ -89,5 +101,25 @@ public class App {
 
         MyWriter.close();
 
+    }
+
+    public static int getTempo(MetaMessage mm, byte[] data){
+
+        int blah = ((data[0] & 0xff) << 16) | ((data[1] & 0xff) << 8) | (data[2] & 0xff);
+        int tempo = Math.round(60000001f / blah);
+
+        return tempo;
+    }
+    public static int[] getTimeSign(MetaMessage mm, byte[] data){
+
+        int[] timeSign = {4,4};
+
+        return timeSign;
+    }
+    public static String getKeySign(MetaMessage mm, byte[] data){
+
+        
+
+        return "";
     }
 }
