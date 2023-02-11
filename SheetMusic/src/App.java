@@ -71,6 +71,8 @@ public class App {
                     MetaMessage mm = (MetaMessage) message;
                     byte[] data = mm.getData();
                     int tempo = 0;
+                    int [] keySign = new int [2];
+                    int [] timeSign = new int [2];
                     System.out.println("Track no " + trackNumber);
                     System.out.print("Data: "+ data);
                     for (int j = 0; j < data.length; j++){
@@ -81,6 +83,22 @@ public class App {
                     if (mm.getType() == 81 && data.length == 3){
                         tempo = getTempo(mm, data);
                         System.out.println("Tempo: "+ tempo);
+                    }
+                    else if (mm.getType() == 0x59){
+                        keySign = getKeySign(mm, data);
+                        String minOrMaj = new String();
+                        if (keySign[1] == 0){
+                            minOrMaj = "major";
+                        }
+                        else {
+                            minOrMaj = "minor";
+
+                        }
+                        System.out.println("Key Signature: " + keySign[0] + " flats or sharps and in the " + minOrMaj + " key");
+                    }
+                    else if (mm.getType() == 0x58){
+                        timeSign = getTimeSign(mm, data);
+                        System.out.println("The time signature is "+ timeSign[0] +"/"+ timeSign[1]);
                     }
                     //check to see if this if hex or deciaml
                     //it's decimal
@@ -112,14 +130,12 @@ public class App {
     }
     public static int[] getTimeSign(MetaMessage mm, byte[] data){
 
-        int[] timeSign = {4,4};
+        int[] timeSign = {data[0], ((int) Math.pow(2, data[1]))};
 
         return timeSign;
     }
-    public static String getKeySign(MetaMessage mm, byte[] data){
-
-        
-
-        return "";
+    public static int[] getKeySign(MetaMessage mm, byte[] data){
+        int [] blahh = {data[0], data[1]};
+        return blahh;
     }
 }

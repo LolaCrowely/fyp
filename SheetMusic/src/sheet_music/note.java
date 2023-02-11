@@ -11,7 +11,6 @@ public class note implements iSheet{
     String stem = new String();
 
     public void noteCon(String step, int octave, int duration, String type, int staff, int default_x, String stem){
-
         this.step = step;
         this.octave = octave;
         this.duration = duration;
