@@ -35,7 +35,7 @@ public class App {
     }
     public static void process(Sequence sequence) throws IOException{
         FileWriter MyWriter = new FileWriter("midi.txt");
-        
+    
         int trackNumber = 0;
         for (Track track :  sequence.getTracks()) {
             trackNumber++;
@@ -137,5 +137,14 @@ public class App {
     public static int[] getKeySign(MetaMessage mm, byte[] data){
         int [] blahh = {data[0], data[1]};
         return blahh;
+    }
+    public static String getNoteType(long tick, float tempo, int tts, int bts, Sequence sequence){
+
+        float crotchetLength = ((60.0f / tempo) * 1000);
+        float tickLength = crotchetLength / sequence.getResolution();
+        float noteLength = tickLength * tick;
+        float measureLength = crotchetLength * 4 * (tts / bts);
+
+        return "dfdf";
     }
 }
