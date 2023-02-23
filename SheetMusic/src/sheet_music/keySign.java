@@ -2,13 +2,11 @@ package sheet_music;
 
 public class keySign implements iSheet{
     int[] key = new int[2];
-    boolean majmin = true;
     int sign = 0;
     String minmaj = new String();
 
-    public void kcon(int[] key, boolean majmin){
+    public void kcon(int[] key){
 
-        this.majmin = majmin;
         if (key[1] == 0){
             minmaj = "major";
         }

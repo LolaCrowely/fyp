@@ -80,10 +80,12 @@ public class App {
                     }
                     System.out.println("\nType: "+mm.getType());
                     System.out.println(mm);
-                    if (mm.getType() == 81 && data.length == 3){
+                    //tempo
+                    if (mm.getType() == 0x51){
                         tempo = getTempo(mm, data);
                         System.out.println("Tempo: "+ tempo);
                     }
+                    //key signautre
                     else if (mm.getType() == 0x59){
                         keySign = getKeySign(mm, data);
                         String minOrMaj = new String();
@@ -96,6 +98,7 @@ public class App {
                         }
                         System.out.println("Key Signature: " + keySign[0] + " flats or sharps and in the " + minOrMaj + " key");
                     }
+                    //time signature
                     else if (mm.getType() == 0x58){
                         timeSign = getTimeSign(mm, data);
                         System.out.println("The time signature is "+ timeSign[0] +"/"+ timeSign[1]);
