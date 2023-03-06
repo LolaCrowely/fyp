@@ -5,6 +5,7 @@ import java.util.*;
 import javax.sound.midi.*;
 
 import sheet_music.attributes;
+import sheet_music.note;
 
 
 
@@ -61,6 +62,39 @@ public class ConvertFile {
                 case(2):
                 for (int i = 0; i < track.size(); i++){
                     MidiEvent event = track.get(i);
+                    MidiMessage message = event.getMessage();
+                    if(message instanceof ShortMessage){
+                        ShortMessage sm = (ShortMessage) message;
+                        if(sm.getCommand() == noteOn){
+                            //note n = new note();
+                            note n = new note();
+                            int key = sm.getData1();
+                            int octave = (key / 12)-1;
+                            int note = key % 12;
+                            String noteName = noteNames[note]+octave;
+                            n.noteCon(event.getTick(), key, noteName);
+                            //looking for key and nOff
+                            for(int j = i+1; j <track.size(); j++){
+                                MidiEvent event2 = track.get(j);
+                                MidiMessage message2 = event2.getMessage();
+                                if(message2 instanceof ShortMessage){
+                                    ShortMessage sm2 = (ShortMessage) message2;
+                                    if(sm2.getCommand() == noteOff){
+                                        int key2 = sm2.getData1();
+                                        int octave2 = (key2/12)-1;
+                                        int note2 = key % 12;
+                                        String noteName2 = noteNames[note2]+octave2;
+                                        if(key2 == n.getKey() && noteName2.equals(n.getnOn())){
+                                            n.link(event2.getTick());
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
+                            //here is where I should have the note with all the information I need to turn it to musicXML
+                        }
+                    }
+                    
                 }
 
 

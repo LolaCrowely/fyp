@@ -141,13 +141,13 @@ public class App {
         int [] blahh = {data[0], data[1]};
         return blahh;
     }
-    public static String getNoteType(long tick, float tempo, int tts, int bts, Sequence sequence){
+    // public static String getNoteType(long tick, float tempo, int tts, int bts, Sequence sequence){
 
-        float crotchetLength = ((60.0f / tempo) * 1000);
-        float tickLength = crotchetLength / sequence.getResolution();
-        float noteLength = tickLength * tick;
-        float measureLength = crotchetLength * 4 * (tts / bts);
+    //     float crotchetLength = ((60.0f / tempo) * 1000);
+    //     float tickLength = crotchetLength / sequence.getResolution();
+    //     float noteLength = tickLength * tick;
+    //     float measureLength = crotchetLength * 4 * (tts / bts);
 
-        return "dfdf";
-    }
+    //     return "dfdf";
+    // }
 }
