@@ -22,13 +22,13 @@ public class ConvertFile {
         System.out.println("Please enter what you want to call your song");
         String title = sc.next();
         //attributes f = new attributes();
+        int tempo = 0;
         int tracknum = 0;
         for(Track track : sequence.getTracks()){
             tracknum++;
             switch (tracknum) {
                 case(1) :
                     int tempocount = 0;
-                    int tempo = 0;
                     int [] keySign = new int [2];
                     int [] timeSign = new int [2];
                     for(int i = 0; i < track.size(); i++){
@@ -69,10 +69,9 @@ public class ConvertFile {
                             //note n = new note();
                             note n = new note();
                             int key = sm.getData1();
-                            int octave = (key / 12)-1;
                             int note = key % 12;
-                            String noteName = noteNames[note]+octave;
-                            n.noteCon(event.getTick(), key, noteName);
+                            String noteName = noteNames[note];
+                            n.noteCon(event.getTick(), key, noteName, sequence, tempo, 1);
                             //looking for key and nOff
                             for(int j = i+1; j <track.size(); j++){
                                 MidiEvent event2 = track.get(j);

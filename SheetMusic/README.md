@@ -26,3 +26,8 @@ xgcentral.com
 music xml
 
 veriovio
+
+
+musescore command line option
+
+send to server
