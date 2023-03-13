@@ -36,8 +36,11 @@ public class note implements iSheet{
         long[] ticks = {tickOn, tickOff};
         return ticks;
     }
+    public int getDuration(){
+        return duration;
+    }
     
-    public void getDurationNType(){
+    public void conDurationNType(){
         long noteTickLength = tickOff - tickOn;
         if ((noteTickLength > ((tpb*4)-(tpb/9))) && (noteTickLength < ((tpb*4)+(tpb/9)))){
             this.duration = 32;
@@ -63,13 +66,12 @@ public class note implements iSheet{
             this.duration = 1;
             this.type = "32nd";
         }
-        
     }
 
     @Override
     public String toMusicXML() {
 
-        getDurationNType();
+        conDurationNType();
         
         return "<note>\n<pitch>\n<step>"+step+"</step>\n<octave>"+octave+"</octave>\n</pitch>\n<duration>"+duration+"</duration>\n<type>"+type+"</type>\n<staff>"+staff+"</staff>\n</note>\n";
     }

@@ -26,6 +26,8 @@ public class ConvertFile {
         int tracknum = 0;
         int tpb = 0;
         int staff = 1;
+        int measureTracker = 2;
+        int measureDur = 0;
 
         //setting up attributes
         int [] keySign = {0,0};
@@ -73,6 +75,15 @@ public class ConvertFile {
                         }
                         //here is where I should have the note with all the information I need to turn it to musicXML
                         Writer1.write(n.toMusicXML());
+                        if (staff == 2){
+                        measureDur += n.getDuration();
+                            if (measureDur >= 32 ){
+                                Writer1.write(addMeasure(measureTracker));
+                                measureTracker++;
+                                measureDur = 0;
+                            }
+                        }
+                    
                     }
                 }
                 
@@ -108,6 +119,9 @@ public class ConvertFile {
         float ticksperbeat = tickLength /beats;
 
         return (int) Math.round(ticksperbeat);
+    }
+    public static String addMeasure(int measureNum){
+        return "</measure>\n<measure number=\"" + measureNum + "\">\n";
     }
 }
 
