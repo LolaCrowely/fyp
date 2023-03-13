@@ -42,7 +42,7 @@ public class note implements iSheet{
     
     public void conDurationNType(){
         long noteTickLength = tickOff - tickOn;
-        if ((noteTickLength > ((tpb*4)-(tpb/9))) && (noteTickLength < ((tpb*4)+(tpb/9)))){
+        if ((noteTickLength > ((tpb*4)-(tpb/9)))){
             this.duration = 32;
             this.type = "whole";
         }
@@ -62,7 +62,7 @@ public class note implements iSheet{
             this.duration = 2;
             this.type = "16th";
         }
-        else if ((noteTickLength > ((tpb/8)-(tpb/9))) && (noteTickLength < ((tpb/8)+(tpb/9)))){
+        else if ((noteTickLength < ((tpb/8)+(tpb/9)))){
             this.duration = 1;
             this.type = "32nd";
         }

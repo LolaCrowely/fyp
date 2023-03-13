@@ -125,6 +125,9 @@ public class ConvertFile {
     }
 }
 
+//see if can add doted notes
+
+
 // switch (tracknum) {
 //     case(1) :
 //         // int tempocount = 0;
