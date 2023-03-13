@@ -14,7 +14,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int count = 0;
-        Sequence sequence = MidiSystem.getSequence(new File("gav.mid"));
+        Sequence sequence = MidiSystem.getSequence(new File("mhall.mid"));
         System.out.println("Hello are you playing a piano song now or just imputting a file?\n1: Playing a Song\n2:Imputting a file");
         count = sc.nextInt();
 
@@ -23,6 +23,8 @@ public class App {
             break;
             case 2:
                 process(sequence);
+                ConvertFile yup = new ConvertFile();
+                yup.MiditoMusicXML();
             break;
             default:
                 System.out.println("That was not an option, goodbye!");

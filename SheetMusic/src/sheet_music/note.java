@@ -1,28 +1,25 @@
 package sheet_music;
 
-import javax.sound.midi.*;
+//import javax.sound.midi.*;
 
 public class note implements iSheet{
     
-    String step = new String();
-    int octave = 0;
-    int duration = 0;
-    String type = new String();
-    int staff = 0;
+    public String step = new String();
+    public int octave = 0;
+    public int duration = 0;
+    public String type = new String();
+    public int staff = 0;
     public long tickOn = 0;
     public long tickOff = 0;
     public int keyOn = 0;
-    public Sequence seq;
     public int tpb = 0;
-    public int tempo = 0;
 
-    public void noteCon(long TickOn, int KeyOn, String NOn, Sequence sec, int tempo, int staff){
+    public void noteCon(long TickOn, int KeyOn, String NOn, int staff, int tpb){
         this.tickOn = TickOn;
         this.keyOn = KeyOn;
         this.step = NOn;
-        this.seq = sec;
-        this.tempo = tempo;
         this.staff = staff;
+        this.tpb = tpb;
 
         this.octave = (keyOn/12)-1;
     }
@@ -39,17 +36,8 @@ public class note implements iSheet{
         long[] ticks = {tickOn, tickOff};
         return ticks;
     }
-    public int getTickPerBeat(Sequence s, int tempo){
-        long tickLength = s.getTickLength();
-        long microLength = s.getMicrosecondLength();
-        float seconds = microLength / 1000000.0f;
-        float beats = tempo * seconds / 60.0f;
-        float ticksperbeat = tickLength /beats;
-
-        return (int) Math.round(ticksperbeat);
-    }
+    
     public void getDurationNType(){
-        this.tpb = getTickPerBeat(seq, tempo);
         long noteTickLength = tickOff - tickOn;
         if ((noteTickLength > ((tpb*4)-(tpb/9))) && (noteTickLength < ((tpb*4)+(tpb/9)))){
             this.duration = 32;
