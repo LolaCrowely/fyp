@@ -15,23 +15,41 @@ public class ConvertFile {
     public static final String[] noteNames = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
 
 
-    public void MiditoMusicXML() throws Exception {
-        Sequence sequence = MidiSystem.getSequence(new File("mhall.mid"));
+    public void MiditoMusicXML(File filePath, int tempo, int [] keySign, int [] timeSign) throws Exception {
+        Sequence sequence = MidiSystem.getSequence(filePath);
         FileWriter Writer1 = new FileWriter("output.musicxml");
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter what you want to call your song");
         String title = sc.next();
         //attributes f = new attributes();
-        int tempo = 0;
+        tempo = 0;
         int tracknum = 0;
         int tpb = 0;
         int staff = 1;
         int measureTracker = 2;
         int measureDur = 0;
+        int measureValue = 1;
 
+        switch(timeSign[1]){
+            case(4):
+                measureValue = 8 * timeSign[0];
+            break;
+            case(2):
+                measureValue = 16 * timeSign[0];
+            break;
+            case(8):
+                measureValue = 4 * timeSign[0];
+            break;
+            case(16):
+                measureValue = 2 + timeSign[0];
+            break;
+            default:
+                measureValue = 32;
+            break;
+        }
         //setting up attributes
-        int [] keySign = {0,0};
-        int [] timeSign = {4,4};
+
+        
         tempo = 100;
         attributes start = new attributes();
         start.acon(timeSign, keySign, tempo, title);
@@ -77,7 +95,7 @@ public class ConvertFile {
                         Writer1.write(n.toMusicXML());
                         if (staff == 2){
                         measureDur += n.getDuration();
-                            if (measureDur >= 32 ){
+                            if (measureDur >= measureValue ){
                                 Writer1.write(addMeasure(measureTracker));
                                 measureTracker++;
                                 measureDur = 0;

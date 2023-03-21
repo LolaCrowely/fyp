@@ -13,6 +13,7 @@ public class note implements iSheet{
     public long tickOff = 0;
     public int keyOn = 0;
     public int tpb = 0;
+    public int alter = 0;
 
     public void noteCon(long TickOn, int KeyOn, String NOn, int staff, int tpb){
         this.tickOn = TickOn;
@@ -39,6 +40,7 @@ public class note implements iSheet{
     public int getDuration(){
         return duration;
     }
+    
     
     public void conDurationNType(){
         long noteTickLength = tickOff - tickOn;
@@ -72,8 +74,11 @@ public class note implements iSheet{
     public String toMusicXML() {
 
         conDurationNType();
-        
-        return "<note>\n<pitch>\n<step>"+step+"</step>\n<octave>"+octave+"</octave>\n</pitch>\n<duration>"+duration+"</duration>\n<type>"+type+"</type>\n<staff>"+staff+"</staff>\n</note>\n";
+        if (step.length() > 1){
+            alter = 1;
+            step = step.substring(0, 1);
+        }
+        return "<note>\n<pitch>\n<step>"+step+"</step>\n<alter>"+ alter +"</alter>\n<octave>"+octave+"</octave>\n</pitch>\n<duration>"+duration+"</duration>\n<type>"+type+"</type>\n<staff>"+staff+"</staff>\n</note>\n";
     }
 }
 // must add in clause for <chord> element
