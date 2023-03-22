@@ -1,9 +1,10 @@
 import javax.swing.*;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
 import java.sql.Time;
-import mdlaf.components.*;
+import mdlaf.components.combobox.*;
 import mdlaf.components.button.MaterialButtonUI;
 import mdlaf.MaterialLookAndFeel;
 class gui extends JFrame implements ActionListener{
@@ -19,60 +20,84 @@ class gui extends JFrame implements ActionListener{
     int tempo = 0;
     String[] keySigns = {"C major", "C minor", "D major", "D minor", "E major", "E minor", "F major", "F minor", "G major", "G minor", "A major", "A minor", "B major", "B minor"};
     final JComboBox<String> cb = new JComboBox<String>(keySigns);
-
+    
 
     public void main(String args[]){
-        try{
-        UIManager.setLookAndFeel(new MaterialLookAndFeel());
-        } catch(Exception e){}
-        JFrame.setDefaultLookAndFeelDecorated(true);
-        createWindow();
-//         //Creating the Frame
-//         JFrame frame = new JFrame("Midi2SheetMusic");
-//         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//         frame.setSize(800, 800);
-//         frame.setLayout(new FlowLayout());
-
-//         JLabel lbl = new JLabel("Welcome to Midi2SheetMusic, please enter all fields and press \"Sheet Music\" at the bottom!");
-//         lbl.setVisible(true);
-//         frame.add(lbl);
-// //key signature
-//         JLabel lbl1 = new JLabel("Select one Key Signature and click Confirm");
-//         lbl1.setVisible(true);
-//         frame.add(lbl1);
-//         cb.setVisible(true);
-//         frame.add(cb);
-     
-// // time signature
-//         JLabel lbl2 = new JLabel("Enter your Time Signature then hit Confirm");
-//         lbl2.setVisible(true);
-//         frame.add(lbl2);
-//         tsfield1.setColumns(1);
-//         tsfield2.setColumns(1);
-//         frame.add(tsfield1);
-//         frame.add(tsfield2);
-     
-// //tempo
-//         JLabel lbl3 = new JLabel("Enter your Tempo here then hit Confirm");
-//         lbl3.setVisible(true);
-//         frame.add(lbl3);
-//         tempoField.setColumns(3);
-//         frame.add(tempoField);
-      
+         try{
+         UIManager.setLookAndFeel(new MaterialLookAndFeel());
+         } catch(Exception e){}
+         JFrame.setDefaultLookAndFeelDecorated(false);
         
-// //upload midi file
-//         UploadBtn = new JButton("Upload Midi File");
-//         UploadBtn.setFocusable(false);
-//         UploadBtn.addActionListener(this);
-//         frame.add(UploadBtn);
+        //Creating the Frame
+        JFrame frame = new JFrame("Midi2SheetMusic");
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.setSize(1000, 1000);
+        JPanel panel = new JPanel();
 
-//         SheetMusic = new JButton("Confirm");
-//         SheetMusic.setFocusable(false);
-//         SheetMusic.addActionListener(this);
-//         frame.add(SheetMusic);
+        JLabel lbl = new JLabel("<html><h2>Welcome to Midi2SheetMusic, please enter all fields and press \"Confirm\" at the bottom!</h2><br></html>");
+        JLabel lbl2 = new JLabel ("Pick your key signature");
+        JLabel timeSign = new JLabel ("Time Signature:  ");
+        tsfield1 = new JTextField(1);
+        tsfield2 = new JTextField(1);
+        JLabel tempo = new JLabel ("Tempo:  ");
+        tempoField = new JTextField(3);
+        JLabel midiUpload = new JLabel ("Upload Midi File: ");
+        UploadBtn = new JButton("Upload Midi File");
+        SheetMusic = new JButton ("<html><h2>Confirm</h2></html>");
 
-//         frame.setVisible(true);
+
+        panel.setPreferredSize(new Dimension(944, 569));
+        panel.setLayout(null);
+
+        panel.add(lbl);
+        panel.add(lbl2);
+        panel.add(cb);
+
+
+
+        panel.add(timeSign);
+        panel.add(tsfield1);
+        panel.add(tsfield2);
+
+
+
+        panel.add(tempo);
+        panel.add(tempoField);
+
+
+        panel.add(midiUpload);
+        panel.add(UploadBtn);
+        UploadBtn.addActionListener(this);
+
+        panel.add(SheetMusic);
+        SheetMusic.addActionListener(this);
+
+        lbl.setBounds (75, 15, 835, 70);
+        lbl2.setBounds (145, 105, 160, 40);
+        cb.setBounds (495, 105, 120, 35);
+        timeSign.setBounds (145, 165, 100, 25);
+        tsfield1.setBounds (495, 155, 30, 30);
+        tsfield2.setBounds (530, 155, 30, 30);
+        tempo.setBounds (145, 220, 100, 25);
+        tempoField.setBounds (495, 210, 70, 35);
+        UploadBtn.setBounds (495, 280, 130, 30);
+        midiUpload.setBounds (150, 280, 265, 25);
+        SheetMusic.setBounds (345, 380, 160, 70);
+
+       // frame.pack();
+       frame.add(panel);
+        frame.setVisible (true);
     }
+
+    public gui(){
+        
+    }
+
+
+
+
+
+
     @Override
     public void actionPerformed(ActionEvent evt) {
         // TODO Auto-generated method stub
@@ -110,61 +135,6 @@ class gui extends JFrame implements ActionListener{
 
         }
     }
-    public void createWindow(){
-        JFrame frame = new JFrame("Midi2SheetMusic");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(800, 800);
-        frame.setLayout(new FlowLayout());
-        createPanal(frame);
-        JLabel lbl = new JLabel("Welcome to Midi2SheetMusic, please enter all fields and press \"Sheet Music\" at the bottom!");
-        frame.add(lbl);
-        lbl.setVisible(true);
-    }
-    public void createPanal(JFrame frame){
-        
-//key signature
-        JLabel lbl1 = new JLabel("Select one Key Signature and click Confirm");
-        lbl1.setVisible(true);
-        frame.add(lbl1);
-        cb.setVisible(true);
-        frame.add(cb);
-     
-// time signature
-        JLabel lbl2 = new JLabel("Enter your Time Signature then hit Confirm");
-        lbl2.setVisible(true);
-        frame.add(lbl2);
-        tsfield1.setColumns(1);
-        tsfield2.setColumns(1);
-        frame.add(tsfield1);
-        frame.add(tsfield2);
-     
-//tempo
-        JLabel lbl3 = new JLabel("Enter your Tempo here then hit Confirm");
-        lbl3.setVisible(true);
-        frame.add(lbl3);
-        tempoField.setColumns(3);
-        frame.add(tempoField);
-      
-        
-//upload midi file
-        UploadBtn = new JButton("Upload Midi File");
-        UploadBtn.setFocusable(false);
-        UploadBtn.addActionListener(this);
-        frame.add(UploadBtn);
-
-        SheetMusic = new JButton("Confirm");
-        SheetMusic.setFocusable(false);
-        SheetMusic.addActionListener(this);
-        frame.add(SheetMusic);
-
-        frame.setVisible(true);
-    }
-
-
-
-
-
-
 
     public File getFilePath(File fPath){
         return fPath;
