@@ -1,7 +1,5 @@
 import java.io.File;
 import java.io.FileWriter;
-//import java.io.IOException;
-import java.util.*;
 import javax.sound.midi.*;
 
 import sheet_music.attributes;
@@ -15,15 +13,11 @@ public class ConvertFile {
     public static final String[] noteNames = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
 
 
-    public void MiditoMusicXML(File filePath, int tempo, int [] keySign, int [] timeSign) throws Exception {
+    public void MiditoMusicXML(File filePath, int tempo, int [] keySign, int [] timeSign, String title) throws Exception {
         Sequence sequence = MidiSystem.getSequence(filePath);
         FileWriter Writer1 = new FileWriter("output.musicxml");
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Please enter what you want to call your song");
-        String title = sc.next();
         //attributes f = new attributes();
         tempo = 0;
-        int tracknum = 0;
         int tpb = 0;
         int staff = 1;
         int measureTracker = 2;
@@ -56,7 +50,6 @@ public class ConvertFile {
         Writer1.write(start.toMusicXML());
         tpb = getTickPerBeat(sequence, tempo);
         for(Track track : sequence.getTracks()){
-            tracknum++;
             for (int i = 0; i < track.size(); i++){
                 MidiEvent event = track.get(i);
                 MidiMessage message = event.getMessage();
@@ -93,12 +86,14 @@ public class ConvertFile {
                         }
                         //here is where I should have the note with all the information I need to turn it to musicXML
                         Writer1.write(n.toMusicXML());
-                        if (staff == 2){
-                        measureDur += n.getDuration();
-                            if (measureDur >= measureValue ){
-                                Writer1.write(addMeasure(measureTracker));
-                                measureTracker++;
-                                measureDur = 0;
+                        if(i != track.size()-1){
+                            if (staff == 2){
+                                measureDur += n.getDuration();
+                                if (measureDur >= measureValue ){
+                                    Writer1.write(addMeasure(measureTracker));
+                                    measureTracker++;
+                                    measureDur = 0;
+                                }
                             }
                         }
                     
@@ -108,8 +103,7 @@ public class ConvertFile {
             }
             
         }
-        System.out.println(tracknum);
-        sc.close();
+
         Writer1.close();
     }
     public static int getTempo(MetaMessage mm, byte[] data){

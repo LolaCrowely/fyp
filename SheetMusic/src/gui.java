@@ -3,21 +3,24 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.File;
-import java.sql.Time;
-import mdlaf.components.combobox.*;
-import mdlaf.components.button.MaterialButtonUI;
+import javax.swing.text.*;
 import mdlaf.MaterialLookAndFeel;
 class gui extends JFrame implements ActionListener{
+    JFrame frame = new JFrame("Midi2SheetMusic");
+    JPanel panel = new JPanel();
+
     JButton UploadBtn;
     JButton SheetMusic;
     File filePath;
     JTextField tsfield1 = new JTextField("");
     JTextField tsfield2 = new JTextField("");
+    JTextField title = new JTextField("");
     JTextField tempoField = new JTextField("");
-    int[] ks = new int[2];
+    int[] ks = {-1,-1};
     String ksign = new String("");
-    int[] ts = new int [2];
+    int[] ts = {-1,-1};
     int tempo = 0;
+    String Mtitle = new String("");
     String[] keySigns = {"C major", "C minor", "D major", "D minor", "E major", "E minor", "F major", "F minor", "G major", "G minor", "A major", "A minor", "B major", "B minor"};
     final JComboBox<String> cb = new JComboBox<String>(keySigns);
     
@@ -29,13 +32,13 @@ class gui extends JFrame implements ActionListener{
          JFrame.setDefaultLookAndFeelDecorated(false);
         
         //Creating the Frame
-        JFrame frame = new JFrame("Midi2SheetMusic");
+        frame = new JFrame("Midi2SheetMusic");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(1000, 1000);
-        JPanel panel = new JPanel();
+        frame.setSize(944, 569);
 
         JLabel lbl = new JLabel("<html><h2>Welcome to Midi2SheetMusic, please enter all fields and press \"Confirm\" at the bottom!</h2><br></html>");
         JLabel lbl2 = new JLabel ("Pick your key signature");
+        JLabel titlelbl = new JLabel("Select your Title (limited to one word)");
         JLabel timeSign = new JLabel ("Time Signature:  ");
         tsfield1 = new JTextField(1);
         tsfield2 = new JTextField(1);
@@ -69,8 +72,12 @@ class gui extends JFrame implements ActionListener{
         panel.add(UploadBtn);
         UploadBtn.addActionListener(this);
 
+        panel.add(titlelbl);
+        panel.add(title);
+
         panel.add(SheetMusic);
         SheetMusic.addActionListener(this);
+
 
         lbl.setBounds (75, 15, 835, 70);
         lbl2.setBounds (145, 105, 160, 40);
@@ -80,23 +87,16 @@ class gui extends JFrame implements ActionListener{
         tsfield2.setBounds (530, 155, 30, 30);
         tempo.setBounds (145, 220, 100, 25);
         tempoField.setBounds (495, 210, 70, 35);
-        UploadBtn.setBounds (495, 280, 130, 30);
-        midiUpload.setBounds (150, 280, 265, 25);
-        SheetMusic.setBounds (345, 380, 160, 70);
+        UploadBtn.setBounds (495, 280, 120, 35);
+        midiUpload.setBounds (145, 280, 265, 25);
+        titlelbl.setBounds(145, 340, 265, 25);
+        title.setBounds(495, 340, 120, 35);
+        SheetMusic.setBounds (350, 400, 140, 60);
 
        // frame.pack();
        frame.add(panel);
         frame.setVisible (true);
     }
-
-    public gui(){
-        
-    }
-
-
-
-
-
 
     @Override
     public void actionPerformed(ActionEvent evt) {
@@ -108,31 +108,55 @@ class gui extends JFrame implements ActionListener{
             int res = midiUpload.showOpenDialog(null);
             if (res == JFileChooser.APPROVE_OPTION){
                 this.filePath = new File(midiUpload.getSelectedFile().getAbsolutePath());
-
+                JLabel fileError = new JLabel("<html>*Make sure you enter a <u>MIDI</u> file (ends with <u>.mid</u>)</html>");
+                fileError.setForeground(Color.red);
+                fileError.setBounds (320, 320, 350, 30);
+                if(filePath.toString().contains(".mid") == false){
+                    
+                    panel.add(fileError);
+                    panel.revalidate();
+                    panel.repaint();
+                    System.out.println("Here");
+                }
+                else{
+                    panel.remove(fileError);
+                    panel.revalidate();
+                    panel.repaint();
+                }
                 System.out.println(filePath);
             }
         }
         else if (evt.getSource() == SheetMusic){
-            this.ts[0] = Integer.parseInt(tsfield1.getText());
-            this.ts[1] = Integer.parseInt(tsfield2.getText());
+            if (tsfield1.getText().isEmpty() || tsfield2.getText().isEmpty() || tempoField.getText().isEmpty() || filePath.toString().equals("") || filePath.toString().contains(".mid") == false || title.getText().isEmpty()){
+                JLabel genError = new JLabel("<html>Make sure <u>ALL</u> values have been entered</html>");
+                genError.setForeground(Color.red);
+                genError.setBounds(340, 340, 400, 30);
+                panel.add(genError);
+                panel.revalidate();
+                panel.repaint();
 
-            this.ksign = cb.getSelectedItem().toString();
-            setKeySignature(ksign);
+            }
+            else{
+                this.ts[0] = Integer.parseInt(tsfield1.getText());
+                this.ts[1] = Integer.parseInt(tsfield2.getText());
+                System.out.println("Time Signature 1: " + ts[0]+" "+ts[1]);
+                this.ksign = cb.getSelectedItem().toString();
+                setKeySignature(ksign);
+                this.Mtitle = title.getText();
+                this.tempo = Integer.parseInt(tempoField.getText());
 
-            this.tempo = Integer.parseInt(tempoField.getText());
+                ConvertFile f = new ConvertFile();
+                try {
+                    f.MiditoMusicXML(filePath, tempo, ks, ts, Mtitle);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                    System.out.println("Didn't work");
+                }
 
-            ConvertFile f = new ConvertFile();
-            try {
-				f.MiditoMusicXML(filePath, tempo, ks, ts);
-			} catch (Exception e) {
-				e.printStackTrace();
-                System.out.println("Didn't work");
-			}
-
-            System.out.println(filePath);
-            System.out.println("Time Signature: " + ts[0]+" "+ts[1]);
-            System.out.println("Tempo:" + tempo);
-
+                System.out.println(filePath);
+                System.out.println("Time Signature: " + ts[0]+" "+ts[1]);
+                System.out.println("Tempo:" + tempo);
+            }
         }
     }
 
