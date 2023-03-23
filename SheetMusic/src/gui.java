@@ -2,15 +2,21 @@ import javax.swing.*;
 
 import java.awt.*;
 import java.awt.event.*;
+import java.io.BufferedInputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
 import javax.swing.text.*;
 import mdlaf.MaterialLookAndFeel;
 class gui extends JFrame implements ActionListener{
     JFrame frame = new JFrame("Midi2SheetMusic");
     JPanel panel = new JPanel();
-
+    File output;
     JButton UploadBtn;
     JButton SheetMusic;
+    JButton dl;
     File filePath;
     JTextField tsfield1 = new JTextField("");
     JTextField tsfield2 = new JTextField("");
@@ -22,7 +28,7 @@ class gui extends JFrame implements ActionListener{
     int tempo = 0;
     String Mtitle = new String("");
     String[] keySigns = {"C major", "C minor", "D major", "D minor", "E major", "E minor", "F major", "F minor", "G major", "G minor", "A major", "A minor", "B major", "B minor"};
-    final JComboBox<String> cb = new JComboBox<String>(keySigns);
+    JComboBox<String> cb;
     
 
     public void main(String args[]){
@@ -34,12 +40,13 @@ class gui extends JFrame implements ActionListener{
         //Creating the Frame
         frame = new JFrame("Midi2SheetMusic");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(944, 569);
+        frame.setSize(944, 700);
 
         JLabel lbl = new JLabel("<html><h2>Welcome to Midi2SheetMusic, please enter all fields and press \"Confirm\" at the bottom!</h2><br></html>");
         JLabel lbl2 = new JLabel ("Pick your key signature");
-        JLabel titlelbl = new JLabel("Select your Title (limited to one word)");
+        JLabel titlelbl = new JLabel("Select your Title");
         JLabel timeSign = new JLabel ("Time Signature:  ");
+        cb  = new JComboBox<String>(keySigns);
         tsfield1 = new JTextField(1);
         tsfield2 = new JTextField(1);
         JLabel tempo = new JLabel ("Tempo:  ");
@@ -47,9 +54,10 @@ class gui extends JFrame implements ActionListener{
         JLabel midiUpload = new JLabel ("Upload Midi File: ");
         UploadBtn = new JButton("Upload Midi File");
         SheetMusic = new JButton ("<html><h2>Confirm</h2></html>");
+        dl = new JButton("<html><h2>Download Your Sheet Music!</h2></html>");
 
 
-        panel.setPreferredSize(new Dimension(944, 569));
+        panel.setPreferredSize(new Dimension(944, 700));
         panel.setLayout(null);
 
         panel.add(lbl);
@@ -91,7 +99,7 @@ class gui extends JFrame implements ActionListener{
         midiUpload.setBounds (145, 280, 265, 25);
         titlelbl.setBounds(145, 340, 265, 25);
         title.setBounds(495, 340, 120, 35);
-        SheetMusic.setBounds (350, 400, 140, 60);
+        SheetMusic.setBounds (250, 550, 140, 60);
 
        // frame.pack();
        frame.add(panel);
@@ -110,7 +118,7 @@ class gui extends JFrame implements ActionListener{
                 this.filePath = new File(midiUpload.getSelectedFile().getAbsolutePath());
                 JLabel fileError = new JLabel("<html>*Make sure you enter a <u>MIDI</u> file (ends with <u>.mid</u>)</html>");
                 fileError.setForeground(Color.red);
-                fileError.setBounds (320, 320, 350, 30);
+                fileError.setBounds (320, 450, 350, 30);
                 if(filePath.toString().contains(".mid") == false){
                     
                     panel.add(fileError);
@@ -130,7 +138,7 @@ class gui extends JFrame implements ActionListener{
             if (tsfield1.getText().isEmpty() || tsfield2.getText().isEmpty() || tempoField.getText().isEmpty() || filePath.toString().equals("") || filePath.toString().contains(".mid") == false || title.getText().isEmpty()){
                 JLabel genError = new JLabel("<html>Make sure <u>ALL</u> values have been entered</html>");
                 genError.setForeground(Color.red);
-                genError.setBounds(340, 340, 400, 30);
+                genError.setBounds(340, 500, 400, 30);
                 panel.add(genError);
                 panel.revalidate();
                 panel.repaint();
@@ -144,18 +152,45 @@ class gui extends JFrame implements ActionListener{
                 setKeySignature(ksign);
                 this.Mtitle = title.getText();
                 this.tempo = Integer.parseInt(tempoField.getText());
-
                 ConvertFile f = new ConvertFile();
                 try {
-                    f.MiditoMusicXML(filePath, tempo, ks, ts, Mtitle);
+                    output = f.MiditoMusicXML(filePath, tempo, ks, ts, Mtitle);
                 } catch (Exception e) {
                     e.printStackTrace();
                     System.out.println("Didn't work");
                 }
-
+                dl.setBounds(400, 550, 300, 60);
+                panel.add(dl);
+                dl.addActionListener(this);
                 System.out.println(filePath);
                 System.out.println("Time Signature: " + ts[0]+" "+ts[1]);
                 System.out.println("Tempo:" + tempo);
+            }
+        }
+        else if(evt.getSource() == dl){
+            
+            JFileChooser sl = new JFileChooser();
+            sl.setDialogTitle("Save file");
+            File outputFile = new File(Mtitle.replace(" ", "") + ".musicxml");
+            sl.setSelectedFile(outputFile);
+            int res = sl.showSaveDialog(dl);
+            if (res == JFileChooser.APPROVE_OPTION){
+                
+                outputFile = sl.getSelectedFile();
+                try {
+                    FileOutputStream oStream = new FileOutputStream(outputFile);
+                    BufferedInputStream iStream = new BufferedInputStream(new FileInputStream(output));
+                    byte[] buffer = new byte[1024];
+                    int bytesRead;
+                    while ((bytesRead = iStream.read(buffer)) != -1){
+                        oStream.write(buffer, 0, bytesRead);
+                    }
+    
+                    iStream.close();
+                    oStream.close();
+                } catch (IOException e){
+                    e.printStackTrace();
+                }
             }
         }
     }

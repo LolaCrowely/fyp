@@ -13,9 +13,10 @@ public class ConvertFile {
     public static final String[] noteNames = {"C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"};
 
 
-    public void MiditoMusicXML(File filePath, int tempo, int [] keySign, int [] timeSign, String title) throws Exception {
+    public File MiditoMusicXML(File filePath, int tempo, int [] keySign, int [] timeSign, String title) throws Exception {
         Sequence sequence = MidiSystem.getSequence(filePath);
-        FileWriter Writer1 = new FileWriter("output.musicxml");
+        File output = new File(".\\output.musicxml");
+        FileWriter Writer1 = new FileWriter(output);
         //attributes f = new attributes();
         tempo = 0;
         int tpb = 0;
@@ -103,8 +104,9 @@ public class ConvertFile {
             }
             
         }
-
+        
         Writer1.close();
+        return output;
     }
     public static int getTempo(MetaMessage mm, byte[] data){
 
